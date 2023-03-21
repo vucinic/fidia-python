@@ -1,4 +1,4 @@
-
+import os
 lattine: str = 9
 lattine = 10
 lattine = 'lattine scritto'
