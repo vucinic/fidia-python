@@ -17,15 +17,19 @@ print(c == cf)
 
 cameCase = 9
 
-COSTANTE = 3.14
-print(COSTANTE)
-
-COSTANTE = 2.38
-
-print(7 // 4)
-print(7 % 4)
+# COSTANTE = 3.14
+# print(COSTANTE)
+#
+# COSTANTE = 2.38
+#
+# print(7 // 4)
+# print(7 % 4)
 
 max(4, 5)
+print("titti " + "3")
+
+n = int(input("Inserire numero intero: "))
+print(n)
 
 
-sqrt(2)
+
