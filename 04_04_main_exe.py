@@ -15,7 +15,7 @@ pin = [
 
 
 """
-- numero carta
+- chiede numero carta all'utente
 - recupera indice carta
 - recupera pin corrispondete
 - chiede input pin
