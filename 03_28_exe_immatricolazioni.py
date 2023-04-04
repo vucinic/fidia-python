@@ -4,7 +4,7 @@ m2 = input('Matricola 2: ')
 valid = True
 
 # region Checks...
-if not m1[1:].isdigit():
+if m1[1:].isdigit() == False:
     print(f'Matricola 1 non valida: {m1}')
     valid = False
 
