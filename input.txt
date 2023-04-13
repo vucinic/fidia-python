@@ -1,0 +1,1648 @@
+{"timestamp": 1678898291410, "leadOff": 1, "ecg": 4040}
+{"timestamp": 1678898291414, "leadOff": 1, "ecg": 4045}
+{"timestamp": 1678898291417, "leadOff": 1, "ecg": 4050}
+{"timestamp": 1678898291421, "leadOff": 1, "ecg": 4050}
+{"timestamp": 1678898291425, "leadOff": 1, "ecg": 4043}
+{"timestamp": 1678898291429, "leadOff": 1, "ecg": 4032}
+{"timestamp": 1678898291433, "leadOff": 1, "ecg": 4020}
+{"timestamp": 1678898291437, "leadOff": 1, "ecg": 4015}
+{"timestamp": 1678898291441, "leadOff": 1, "ecg": 4018}
+{"timestamp": 1678898291445, "leadOff": 1, "ecg": 4021}
+{"timestamp": 1678898291449, "leadOff": 1, "ecg": 4020}
+{"timestamp": 1678898291453, "leadOff": 1, "ecg": 4012}
+{"timestamp": 1678898291457, "leadOff": 1, "ecg": 4001}
+{"timestamp": 1678898291460, "leadOff": 1, "ecg": 3994}
+{"timestamp": 1678898291464, "leadOff": 1, "ecg": 3997}
+{"timestamp": 1678898291468, "leadOff": 1, "ecg": 4005}
+{"timestamp": 1678898291472, "leadOff": 1, "ecg": 4009}
+{"timestamp": 1678898291476, "leadOff": 1, "ecg": 4006}
+{"timestamp": 1678898291480, "leadOff": 1, "ecg": 4003}
+{"timestamp": 1678898291484, "leadOff": 1, "ecg": 3999}
+{"timestamp": 1678898291488, "leadOff": 1, "ecg": 3996}
+{"timestamp": 1678898291492, "leadOff": 1, "ecg": 3996}
+{"timestamp": 1678898291496, "leadOff": 1, "ecg": 3999}
+{"timestamp": 1678898291500, "leadOff": 1, "ecg": 4000}
+{"timestamp": 1678898291503, "leadOff": 1, "ecg": 3997}
+{"timestamp": 1678898291507, "leadOff": 1, "ecg": 3994}
+{"timestamp": 1678898291511, "leadOff": 1, "ecg": 3994}
+{"timestamp": 1678898291515, "leadOff": 1, "ecg": 3993}
+{"timestamp": 1678898291519, "leadOff": 1, "ecg": 3993}
+{"timestamp": 1678898291523, "leadOff": 1, "ecg": 3997}
+{"timestamp": 1678898291527, "leadOff": 1, "ecg": 3998}
+{"timestamp": 1678898291531, "leadOff": 1, "ecg": 3994}
+{"timestamp": 1678898291535, "leadOff": 1, "ecg": 3986}
+{"timestamp": 1678898291539, "leadOff": 1, "ecg": 3979}
+{"timestamp": 1678898291542, "leadOff": 1, "ecg": 3973}
+{"timestamp": 1678898291546, "leadOff": 1, "ecg": 3968}
+{"timestamp": 1678898291550, "leadOff": 1, "ecg": 3961}
+{"timestamp": 1678898291554, "leadOff": 1, "ecg": 3958}
+{"timestamp": 1678898291558, "leadOff": 1, "ecg": 3958}
+{"timestamp": 1678898291562, "leadOff": 1, "ecg": 3951}
+{"timestamp": 1678898291566, "leadOff": 1, "ecg": 3939}
+{"timestamp": 1678898291570, "leadOff": 1, "ecg": 3934}
+{"timestamp": 1678898291574, "leadOff": 1, "ecg": 3936}
+{"timestamp": 1678898291578, "leadOff": 1, "ecg": 3939}
+{"timestamp": 1678898291582, "leadOff": 1, "ecg": 3941}
+{"timestamp": 1678898291585, "leadOff": 1, "ecg": 3942}
+{"timestamp": 1678898291589, "leadOff": 1, "ecg": 3942}
+{"timestamp": 1678898291593, "leadOff": 1, "ecg": 3938}
+{"timestamp": 1678898291597, "leadOff": 1, "ecg": 3932}
+{"timestamp": 1678898291601, "leadOff": 1, "ecg": 3920}
+{"timestamp": 1678898291605, "leadOff": 1, "ecg": 3908}
+{"timestamp": 1678898291609, "leadOff": 1, "ecg": 3905}
+{"timestamp": 1678898291613, "leadOff": 1, "ecg": 3910}
+{"timestamp": 1678898291617, "leadOff": 1, "ecg": 3918}
+{"timestamp": 1678898291621, "leadOff": 1, "ecg": 3921}
+{"timestamp": 1678898291625, "leadOff": 1, "ecg": 3925}
+{"timestamp": 1678898291628, "leadOff": 1, "ecg": 3928}
+{"timestamp": 1678898291632, "leadOff": 1, "ecg": 3928}
+{"timestamp": 1678898291636, "leadOff": 1, "ecg": 3922}
+{"timestamp": 1678898291640, "leadOff": 1, "ecg": 3912}
+{"timestamp": 1678898291644, "leadOff": 1, "ecg": 3901}
+{"timestamp": 1678898291648, "leadOff": 1, "ecg": 3897}
+{"timestamp": 1678898291652, "leadOff": 1, "ecg": 3899}
+{"timestamp": 1678898291656, "leadOff": 1, "ecg": 3903}
+{"timestamp": 1678898291660, "leadOff": 1, "ecg": 3906}
+{"timestamp": 1678898291664, "leadOff": 1, "ecg": 3907}
+{"timestamp": 1678898291667, "leadOff": 1, "ecg": 3907}
+{"timestamp": 1678898291671, "leadOff": 1, "ecg": 3910}
+{"timestamp": 1678898291675, "leadOff": 1, "ecg": 3912}
+{"timestamp": 1678898291679, "leadOff": 1, "ecg": 3908}
+{"timestamp": 1678898291683, "leadOff": 1, "ecg": 3903}
+{"timestamp": 1678898291687, "leadOff": 1, "ecg": 3898}
+{"timestamp": 1678898291691, "leadOff": 1, "ecg": 3897}
+{"timestamp": 1678898291695, "leadOff": 1, "ecg": 3903}
+{"timestamp": 1678898291699, "leadOff": 1, "ecg": 3911}
+{"timestamp": 1678898291703, "leadOff": 1, "ecg": 3916}
+{"timestamp": 1678898291707, "leadOff": 1, "ecg": 3919}
+{"timestamp": 1678898291710, "leadOff": 1, "ecg": 3920}
+{"timestamp": 1678898291714, "leadOff": 1, "ecg": 3914}
+{"timestamp": 1678898291718, "leadOff": 1, "ecg": 3903}
+{"timestamp": 1678898291722, "leadOff": 1, "ecg": 3893}
+{"timestamp": 1678898291726, "leadOff": 1, "ecg": 3884}
+{"timestamp": 1678898291730, "leadOff": 1, "ecg": 3879}
+{"timestamp": 1678898291734, "leadOff": 1, "ecg": 3880}
+{"timestamp": 1678898291738, "leadOff": 1, "ecg": 3883}
+{"timestamp": 1678898291742, "leadOff": 1, "ecg": 3889}
+{"timestamp": 1678898291746, "leadOff": 1, "ecg": 3898}
+{"timestamp": 1678898291750, "leadOff": 1, "ecg": 3903}
+{"timestamp": 1678898291753, "leadOff": 1, "ecg": 3903}
+{"timestamp": 1678898291757, "leadOff": 1, "ecg": 3902}
+{"timestamp": 1678898291761, "leadOff": 1, "ecg": 3903}
+{"timestamp": 1678898291765, "leadOff": 1, "ecg": 3902}
+{"timestamp": 1678898291769, "leadOff": 1, "ecg": 3905}
+{"timestamp": 1678898291773, "leadOff": 1, "ecg": 3914}
+{"timestamp": 1678898291777, "leadOff": 1, "ecg": 3925}
+{"timestamp": 1678898291781, "leadOff": 1, "ecg": 3933}
+{"timestamp": 1678898291785, "leadOff": 1, "ecg": 3936}
+{"timestamp": 1678898291789, "leadOff": 1, "ecg": 3931}
+{"timestamp": 1678898291792, "leadOff": 1, "ecg": 3921}
+{"timestamp": 1678898291796, "leadOff": 1, "ecg": 3913}
+{"timestamp": 1678898291800, "leadOff": 1, "ecg": 3904}
+{"timestamp": 1678898291804, "leadOff": 1, "ecg": 3895}
+{"timestamp": 1678898291808, "leadOff": 1, "ecg": 3890}
+{"timestamp": 1678898291812, "leadOff": 1, "ecg": 3889}
+{"timestamp": 1678898291816, "leadOff": 1, "ecg": 3893}
+{"timestamp": 1678898291820, "leadOff": 1, "ecg": 3895}
+{"timestamp": 1678898291824, "leadOff": 1, "ecg": 3895}
+{"timestamp": 1678898291828, "leadOff": 1, "ecg": 3899}
+{"timestamp": 1678898291832, "leadOff": 1, "ecg": 3908}
+{"timestamp": 1678898291835, "leadOff": 1, "ecg": 3920}
+{"timestamp": 1678898291839, "leadOff": 1,"ecg": 3926}
+{"timestamp": 1678898291843, "leadOff": 1,   "ecg": 3928}
+{"timestamp": 1678898291847, "leadOff": 1, "ecg": 3934}
+{"timestamp": 1678898291851, "leadOff": 1, "ecg": 3942}
+{"timestamp": 1678898291855, "leadOff": 1, "ecg": 3946}
+{"timestamp": 1678898291859, "leadOff": 1, "ecg": 3943}
+{"timestamp": 1678898291863, "leadOff": 1, "ecg": 3943}
+{"timestamp": 1678898291867, "leadOff": 1, "ecg": 3949}
+{"timestamp": 1678898291871, "leadOff": 1, "ecg": 3954}
+{"timestamp": 1678898291875, "leadOff": 1, "ecg": 3951}
+{"timestamp": 1678898291878, "leadOff": 1, "ecg": 3950}
+{"timestamp": 1678898291882, "leadOff": 1, "ecg": 3954}
+{"timestamp": 1678898291886, "leadOff": 1, "ecg": 3952}
+{"timestamp": 1678898291890, "leadOff": 1, "ecg": 3941}
+{"timestamp": 1678898291894, "leadOff": 1, "ecg": 3931}
+{"timestamp": 1678898291898, "leadOff": 1, "ecg": 3924}
+{"timestamp": 1678898291902, "leadOff": 1, "ecg": 3923}
+{"timestamp": 1678898291906, "leadOff": 1, "ecg": 3930}
+{"timestamp": 1678898291910, "leadOff": 1, "ecg": 3936}
+{"timestamp": 1678898291914, "leadOff": 1, "ecg": 3938}
+{"timestamp": 1678898291917, "leadOff": 1, "ecg": 3943}
+{"timestamp": 1678898291921, "leadOff": 1, "ecg": 3950}
+{"timestamp": 1678898291925, "leadOff": 1, "ecg": 3956}
+{"timestamp": 1678898291929, "leadOff": 1, "ecg": 3963}
+{"timestamp": 1678898291933, "leadOff": 1, "ecg": 3966}
+{"timestamp": 1678898291937, "leadOff": 1, "ecg": 3961}
+{"timestamp": 1678898291941, "leadOff": 1, "ecg": 3953}
+{"timestamp": 1678898291945, "leadOff": 1, "ecg": 3949}
+{"timestamp": 1678898291949, "leadOff": 1, "ecg": 3945}
+{"timestamp": 1678898291953, "leadOff": 1, "ecg": 3940}
+{"timestamp": 1678898291957, "leadOff": 1, "ecg": 3939}
+{"timestamp": 1678898291960, "leadOff": 1, "ecg": 3944}
+{"timestamp": 1678898291964, "leadOff": 1, "ecg": 3949}
+{"timestamp": 1678898291968, "leadOff": 1, "ecg": 3950}
+{"timestamp": 1678898291972, "leadOff": 1, "ecg": 3949}
+{"timestamp": 1678898291976, "leadOff": 1, "ecg": 3948}
+{"timestamp": 1678898291980, "leadOff": 1, "ecg": 3953}
+{"timestamp": 1678898291984, "leadOff": 1, "ecg": 3967}
+{"timestamp": 1678898291988, "leadOff": 1, "ecg": 3983}
+{"timestamp": 1678898291992, "leadOff": 1, "ecg": 3995}
+{"timestamp": 1678898291996, "leadOff": 1, "ecg": 3999}
+{"timestamp": 1678898292000, "leadOff": 1, "ecg": 3992}
+{"timestamp": 1678898291031, "bi": -21484}
+{"timestamp": 1678898291093, "bi": -21486}
+{"timestamp": 1678898291156, "bi": -21557}
+{"timestamp": 1678898291218, "bi": -21704}
+{"timestamp": 1678898291281, "bi": -21929}
+{"timestamp": 1678898291343, "bi": -22232}
+{"timestamp": 1678898291406, "bi": -22610}
+{"timestamp": 1678898291468, "bi": -23061}
+{"timestamp": 1678898291531, "bi": -23580}
+{"timestamp": 1678898291593, "bi": -24160}
+{"timestamp": 1678898291656, "bi": -24802}
+{"timestamp": 1678898291718, "bi": -25487}
+{"timestamp": 1678898291781, "bi": -26226}
+{"timestamp": 1678898291843, "bi": -27024}
+{"timestamp": 1678898291906, "bi": -27880}
+{"timestamp": 1678898291968, "bi": -28780}
+{"timestamp": 1678898291031, "x": 2856, "y": 2957, "z": 771}
+{"timestamp": 1678898291093, "x": 3258, "y": 2039, "z": 1188}
+{"timestamp": 1678898291156, "x": 3175, "y": 1041, "z": 1474}
+{"timestamp": 1678898291218, "x": 4630, "y": 99, "z": 674}
+{"timestamp": 1678898291281, "x": 6543, "y": -2893, "z": 2121}
+{"timestamp": 1678898291343, "x": 4004, "y": -16766, "z": 4370}
+{"timestamp": 1678898291406, "x": 4400, "y": -9565, "z": 3432}
+{"timestamp": 1678898291468, "x": 7080, "y": -2870, "z": 2661}
+{"timestamp": 1678898291531, "x": 2792, "y": 9837, "z": 14767}
+{"timestamp": 1678898291593, "x": 215, "y": 5075, "z": 7421}
+{"timestamp": 1678898291656, "x": 882, "y": 7138, "z": 6396}
+{"timestamp": 1678898291718, "x": 2098, "y": 9125, "z": 1083}
+{"timestamp": 1678898291781, "x": 2724, "y": 7393, "z": -1626}
+{"timestamp": 1678898291843, "x": 2401, "y": 6226, "z": 259}
+{"timestamp": 1678898291906, "x": 3216, "y": 4364, "z": -917}
+{"timestamp": 1678898291968, "x": 3041, "y": 2666, "z": -2264}
+{"timestamp": 1678898292031, "x": 2966, "y": 2154, "z": -2122}
+{"timestamp": 1678898292093, "x": 2217, "y": 2514, "z": -1295}
+{"timestamp": 1678898292156, "x": 1793, "y": 2959, "z": -653}
+{"timestamp": 1678898292218, "x": 746, "y": 3313, "z": 543}
+{"timestamp": 1678898292281, "x": -295, "y": 3303, "z": 562}
+{"timestamp": 1678898292343, "x": 1344, "y": 1444, "z": 2675}
+{"timestamp": 1678898292406, "x": 1707, "y": -42, "z": 6566}
+{"timestamp": 1678898292468, "x": 421, "y": -5514, "z": 8898}
+{"timestamp": 1678898292531, "x": 1777, "y": -7064, "z": 5828}
+{"timestamp": 1678898292593, "x": 2308, "y": -6238, "z": 2030}
+{"timestamp": 1678898292656, "x": 2160, "y": -5197, "z": 1736}
+{"timestamp": 1678898292718, "x": 2368, "y": -3411, "z": 2109}
+{"timestamp": 1678898292781, "x": 2548, "y": -2681, "z": 2253}
+{"timestamp": 1678898292843, "x": 3520, "y": -1322, "z": 4394}
+{"timestamp": 1678898292906, "x": 3815, "y": 2002, "z": 7359}
+{"timestamp": 1678898292968, "x": -685, "y": 6457, "z": 5318}
+{"timestamp": 1678898292003, "leadOff": 1, "ecg": 3975}
+{"timestamp": 1678898292007, "leadOff": 1, "ecg": 3954}
+{"timestamp": 1678898292011, "leadOff": 1, "ecg": 3939}
+{"timestamp": 1678898292015, "leadOff": 1, "ecg": 3943}
+{"timestamp": 1678898292019, "leadOff": 1, "ecg": 3957}
+{"timestamp": 1678898292023, "leadOff": 1, "ecg": 3970}
+{"timestamp": 1678898292027, "leadOff": 1, "ecg": 3976}
+{"timestamp": 1678898292031, "leadOff": 1, "ecg": 3981}
+{"timestamp": 1678898292035, "leadOff": 1, "ecg": 3983}
+{"timestamp": 1678898292039, "leadOff": 1, "ecg": 3981}
+{"timestamp": 1678898292042, "leadOff": 1, "ecg": 3973}
+{"timestamp": 1678898292046, "leadOff": 1, "ecg": 3967}
+{"timestamp": 1678898292050, "leadOff": 1, "ecg": 3972}
+{"timestamp": 1678898292054, "leadOff": 1, "ecg": 3981}
+{"timestamp": 1678898292058, "leadOff": 1, "ecg": 3988}
+{"timestamp": 1678898292062, "leadOff": 1, "ecg": 3989}
+{"timestamp": 1678898292066, "leadOff": 1, "ecg": 3987}
+{"timestamp": 1678898292070, "leadOff": 1, "ecg": 3982}
+{"timestamp": 1678898292074, "leadOff": 1, "ecg": 3979}
+{"timestamp": 1678898292078, "leadOff": 1, "ecg": 3979}
+{"timestamp": 1678898292082, "leadOff": 1, "ecg": 3980}
+{"timestamp": 1678898292085, "leadOff": 1, "ecg": 3980}
+{"timestamp": 1678898292089, "leadOff": 1, "ecg": 3985}
+{"timestamp": 1678898292093, "leadOff": 1, "ecg": 3990}
+{"timestamp": 1678898292097, "leadOff": 1, "ecg": 3992}
+{"timestamp": 1678898292101, "leadOff": 1, "ecg": 3994}
+{"timestamp": 1678898292105, "leadOff": 1, "ecg": 3999}
+{"timestamp": 1678898292109, "leadOff": 1, "ecg": 4008}
+{"timestamp": 1678898292113, "leadOff": 1, "ecg": 4015}
+{"timestamp": 1678898292117, "leadOff": 1, "ecg": 4020}
+{"timestamp": 1678898292121, "leadOff": 1, "ecg": 4022}
+{"timestamp": 1678898292125, "leadOff": 1, "ecg": 4020}
+{"timestamp": 1678898292128, "leadOff": 1, "ecg": 4016}
+{"timestamp": 1678898292132, "leadOff": 1, "ecg": 4020}
+{"timestamp": 1678898292136, "leadOff": 1, "ecg": 4031}
+{"timestamp": 1678898292140, "leadOff": 1, "ecg": 4046}
+{"timestamp": 1678898292144, "leadOff": 1, "ecg": 4059}
+{"timestamp": 1678898292148, "leadOff": 1, "ecg": 4064}
+{"timestamp": 1678898292152, "leadOff": 1, "ecg": 4061}
+{"timestamp": 1678898292156, "leadOff": 1, "ecg": 4057}
+{"timestamp": 1678898292160, "leadOff": 1, "ecg": 4059}
+{"timestamp": 1678898292164, "leadOff": 1, "ecg": 4067}
+{"timestamp": 1678898292167, "leadOff": 1, "ecg": 4084}
+{"timestamp": 1678898292171, "leadOff": 1, "ecg": 4105}
+{"timestamp": 1678898292175, "leadOff": 1, "ecg": 4122}
+{"timestamp": 1678898292179, "leadOff": 1, "ecg": 4129}
+{"timestamp": 1678898292183, "leadOff": 1, "ecg": 4126}
+{"timestamp": 1678898292187, "leadOff": 1, "ecg": 4122}
+{"timestamp": 1678898292191, "leadOff": 1, "ecg": 4124}
+{"timestamp": 1678898292195, "leadOff": 1, "ecg": 4131}
+{"timestamp": 1678898292199, "leadOff": 1, "ecg": 4133}
+{"timestamp": 1678898292203, "leadOff": 1, "ecg": 4131}
+{"timestamp": 1678898292207, "leadOff": 1, "ecg": 4130}
+{"timestamp": 1678898292210, "leadOff": 1, "ecg": 4130}
+{"timestamp": 1678898292214, "leadOff": 1, "ecg": 4129}
+{"timestamp": 1678898292218, "leadOff": 1, "ecg": 4125}
+{"timestamp": 1678898292222, "leadOff": 1, "ecg": 4120}
+{"timestamp": 1678898292226, "leadOff": 1, "ecg": 4119}
+{"timestamp": 1678898292230, "leadOff": 1, "ecg": 4121}
+{"timestamp": 1678898292234, "leadOff": 1, "ecg": 4126}
+{"timestamp": 1678898292238, "leadOff": 1, "ecg": 4133}
+{"timestamp": 1678898292242, "leadOff": 1, "ecg": 4140}
+{"timestamp": 1678898292246, "leadOff": 1, "ecg": 4144}
+{"timestamp": 1678898292250, "leadOff": 1, "ecg": 4147}
+{"timestamp": 1678898292253, "leadOff": 1, "ecg": 4150}
+{"timestamp": 1678898292257, "leadOff": 1, "ecg": 4152}
+{"timestamp": 1678898292261, "leadOff": 1, "ecg": 4155}
+{"timestamp": 1678898292265, "leadOff": 1, "ecg": 4162}
+{"timestamp": 1678898292269, "leadOff": 1, "ecg": 4172}
+{"timestamp": 1678898292273, "leadOff": 1, "ecg": 4176}
+{"timestamp": 1678898292277, "leadOff": 1, "ecg": 4175}
+{"timestamp": 1678898292281, "leadOff": 1, "ecg": 4177}
+{"timestamp": 1678898292285, "leadOff": 1, "ecg": 4181}
+{"timestamp": 1678898292289, "leadOff": 1, "ecg": 4180}
+{"timestamp": 1678898292292, "leadOff": 1, "ecg": 4177}
+{"timestamp": 1678898292296, "leadOff": 1, "ecg": 4173}
+{"timestamp": 1678898292300, "leadOff": 1, "ecg": 4169}
+{"timestamp": 1678898292304, "leadOff": 1, "ecg": 4175}
+{"timestamp": 1678898292308, "leadOff": 1, "ecg": 4192}
+{"timestamp": 1678898292312, "leadOff": 1, "ecg": 4211}
+{"timestamp": 1678898292316, "leadOff": 1, "ecg": 4223}
+{"timestamp": 1678898292320, "leadOff": 1, "ecg": 4221}
+{"timestamp": 1678898292324, "leadOff": 1, "ecg": 4217}
+{"timestamp": 1678898292328, "leadOff": 1, "ecg": 4224}
+{"timestamp": 1678898292332, "leadOff": 1, "ecg": 4243}
+{"timestamp": 1678898292335, "leadOff": 1, "ecg": 4259}
+{"timestamp": 1678898292339, "leadOff": 1, "ecg": 4262}
+{"timestamp": 1678898292343, "leadOff": 1, "ecg": 4259}
+{"timestamp": 1678898292347, "leadOff": 1, "ecg": 4256}
+{"timestamp": 1678898292351, "leadOff": 1, "ecg": 4252}
+{"timestamp": 1678898292355, "leadOff": 1, "ecg": 4252}
+{"timestamp": 1678898292359, "leadOff": 1, "ecg": 4258}
+{"timestamp": 1678898292363, "leadOff": 1, "ecg": 4265}
+{"timestamp": 1678898292367, "leadOff": 1, "ecg": 4261}
+{"timestamp": 1678898292371, "leadOff": 1, "ecg": 4249}
+{"timestamp": 1678898292375, "leadOff": 1, "ecg": 4240}
+{"timestamp": 1678898292378, "leadOff": 1, "ecg": 4237}
+{"timestamp": 1678898292382, "leadOff": 1, "ecg": 4239}
+{"timestamp": 1678898292386, "leadOff": 1, "ecg": 4254}
+{"timestamp": 1678898292390, "leadOff": 1, "ecg": 4276}
+{"timestamp": 1678898292394, "leadOff": 1, "ecg": 4296}
+{"timestamp": 1678898292398, "leadOff": 1, "ecg": 4313}
+{"timestamp": 1678898292402, "leadOff": 1, "ecg": 4322}
+{"timestamp": 1678898292406, "leadOff": 1, "ecg": 4325}
+{"timestamp": 1678898292410, "leadOff": 1, "ecg": 4326}
+{"timestamp": 1678898292414, "leadOff": 1, "ecg": 4326}
+{"timestamp": 1678898292417, "leadOff": 1, "ecg": 4333}
+{"timestamp": 1678898292421, "leadOff": 1, "ecg": 4347}
+{"timestamp": 1678898292425, "leadOff": 1, "ecg": 4358}
+{"timestamp": 1678898292429, "leadOff": 1, "ecg": 4360}
+{"timestamp": 1678898292433, "leadOff": 1, "ecg": 4362}
+{"timestamp": 1678898292437, "leadOff": 1, "ecg": 4363}
+{"timestamp": 1678898292441, "leadOff": 1, "ecg": 4364}
+{"timestamp": 1678898292445, "leadOff": 1, "ecg": 4368}
+{"timestamp": 1678898292449, "leadOff": 1, "ecg": 4375}
+{"timestamp": 1678898292453, "leadOff": 1, "ecg": 4384}
+{"timestamp": 1678898292457, "leadOff": 1, "ecg": 4395}
+{"timestamp": 1678898292460, "leadOff": 1, "ecg": 4407}
+{"timestamp": 1678898292464, "leadOff": 1, "ecg": 4417}
+{"timestamp": 1678898292468, "leadOff": 1, "ecg": 4420}
+{"timestamp": 1678898292472, "leadOff": 1, "ecg": 4421}
+{"timestamp": 1678898292476, "leadOff": 1, "ecg": 4426}
+{"timestamp": 1678898292480, "leadOff": 1, "ecg": 4438}
+{"timestamp": 1678898292484, "leadOff": 1, "ecg": 4449}
+{"timestamp": 1678898292488, "leadOff": 1, "ecg": 4455}
+{"timestamp": 1678898292492, "leadOff": 1, "ecg": 4456}
+{"timestamp": 1678898292496, "leadOff": 1, "ecg": 4455}
+{"timestamp": 1678898292500, "leadOff": 1, "ecg": 4461}
+{"timestamp": 1678898292503, "leadOff": 1, "ecg": 4476}
+{"timestamp": 1678898292507, "leadOff": 1, "ecg": 4486}
+{"timestamp": 1678898292511, "leadOff": 1, "ecg": 4489}
+{"timestamp": 1678898292515, "leadOff": 1, "ecg": 4488}
+{"timestamp": 1678898292519, "leadOff": 1, "ecg": 4487}
+{"timestamp": 1678898292523, "leadOff": 1, "ecg": 4490}
+{"timestamp": 1678898292527, "leadOff": 1, "ecg": 4499}
+{"timestamp": 1678898292531, "leadOff": 1, "ecg": 4512}
+{"timestamp": 1678898292535, "leadOff": 1, "ecg": 4520}
+{"timestamp": 1678898292539, "leadOff": 1, "ecg": 4520}
+{"timestamp": 1678898292542, "leadOff": 1, "ecg": 4518}
+{"timestamp": 1678898292546, "leadOff": 1, "ecg": 4520}
+{"timestamp": 1678898292550, "leadOff": 1, "ecg": 4525}
+{"timestamp": 1678898292554, "leadOff": 1, "ecg": 4532}
+{"timestamp": 1678898292558, "leadOff": 1, "ecg": 4541}
+{"timestamp": 1678898292562, "leadOff": 1, "ecg": 4547}
+{"timestamp": 1678898292566, "leadOff": 1, "ecg": 4546}
+{"timestamp": 1678898292570, "leadOff": 1, "ecg": 4551}
+{"timestamp": 1678898292574, "leadOff": 1, "ecg": 4565}
+{"timestamp": 1678898292578, "leadOff": 1, "ecg": 4577}
+{"timestamp": 1678898292582, "leadOff": 1, "ecg": 4578}
+{"timestamp": 1678898292585, "leadOff": 1, "ecg": 4576}
+{"timestamp": 1678898292589, "leadOff": 1, "ecg": 4582}
+{"timestamp": 1678898292593, "leadOff": 1, "ecg": 4592}
+{"timestamp": 1678898292597, "leadOff": 1, "ecg": 4596}
+{"timestamp": 1678898292601, "leadOff": 1, "ecg": 4599}
+{"timestamp": 1678898292605, "leadOff": 1, "ecg": 4603}
+{"timestamp": 1678898292609, "leadOff": 1, "ecg": 4601}
+{"timestamp": 1678898292613, "leadOff": 1, "ecg": 4600}
+{"timestamp": 1678898292617, "leadOff": 1, "ecg": 4611}
+{"timestamp": 1678898292621, "leadOff": 1, "ecg": 4625}
+{"timestamp": 1678898292625, "leadOff": 1, "ecg": 4634}
+{"timestamp": 1678898292628, "leadOff": 1, "ecg": 4642}
+{"timestamp": 1678898292632, "leadOff": 1, "ecg": 4658}
+{"timestamp": 1678898292636, "leadOff": 1, "ecg": 4676}
+{"timestamp": 1678898292640, "leadOff": 1, "ecg": 4689}
+{"timestamp": 1678898292644, "leadOff": 1, "ecg": 4694}
+{"timestamp": 1678898292648, "leadOff": 1, "ecg": 4694}
+{"timestamp": 1678898292652, "leadOff": 1, "ecg": 4698}
+{"timestamp": 1678898292656, "leadOff": 1, "ecg": 4707}
+{"timestamp": 1678898292660, "leadOff": 1, "ecg": 4711}
+{"timestamp": 1678898292664, "leadOff": 1, "ecg": 4706}
+{"timestamp": 1678898292667, "leadOff": 1, "ecg": 4705}
+{"timestamp": 1678898292671, "leadOff": 1, "ecg": 4716}
+{"timestamp": 1678898292675, "leadOff": 1, "ecg": 4736}
+{"timestamp": 1678898292679, "leadOff": 1, "ecg": 4750}
+{"timestamp": 1678898292683, "leadOff": 1, "ecg": 4750}
+{"timestamp": 1678898292687, "leadOff": 1, "ecg": 4741}
+{"timestamp": 1678898292691, "leadOff": 1, "ecg": 4741}
+{"timestamp": 1678898292695, "leadOff": 1, "ecg": 4751}
+{"timestamp": 1678898292699, "leadOff": 1, "ecg": 4765}
+{"timestamp": 1678898292703, "leadOff": 1, "ecg": 4780}
+{"timestamp": 1678898292707, "leadOff": 1, "ecg": 4795}
+{"timestamp": 1678898292710, "leadOff": 1, "ecg": 4808}
+{"timestamp": 1678898292714, "leadOff": 1, "ecg": 4819}
+{"timestamp": 1678898292718, "leadOff": 1, "ecg": 4826}
+{"timestamp": 1678898292722, "leadOff": 1, "ecg": 4821}
+{"timestamp": 1678898292726, "leadOff": 1, "ecg": 4811}
+{"timestamp": 1678898292730, "leadOff": 1, "ecg": 4813}
+{"timestamp": 1678898292734, "leadOff": 1, "ecg": 4832}
+{"timestamp": 1678898292738, "leadOff": 1, "ecg": 4853}
+{"timestamp": 1678898292742, "leadOff": 1, "ecg": 4870}
+{"timestamp": 1678898292746, "leadOff": 1, "ecg": 4887}
+{"timestamp": 1678898292750, "leadOff": 1, "ecg": 4903}
+{"timestamp": 1678898292753, "leadOff": 1, "ecg": 4915}
+{"timestamp": 1678898292757, "leadOff": 1, "ecg": 4923}
+{"timestamp": 1678898292761, "leadOff": 1, "ecg": 4925}
+{"timestamp": 1678898292765, "leadOff": 1, "ecg": 4926}
+{"timestamp": 1678898292769, "leadOff": 1, "ecg": 4929}
+{"timestamp": 1678898292773, "leadOff": 1, "ecg": 4934}
+{"timestamp": 1678898292777, "leadOff": 1, "ecg": 4948}
+{"timestamp": 1678898292781, "leadOff": 1, "ecg": 4967}
+{"timestamp": 1678898292785, "leadOff": 1, "ecg": 4984}
+{"timestamp": 1678898292789, "leadOff": 1, "ecg": 4998}
+{"timestamp": 1678898292792, "leadOff": 1, "ecg": 5011}
+{"timestamp": 1678898292796, "leadOff": 1, "ecg": 5017}
+{"timestamp": 1678898292800, "leadOff": 1, "ecg": 5011}
+{"timestamp": 1678898292804, "leadOff": 1, "ecg": 5000}
+{"timestamp": 1678898292808, "leadOff": 1, "ecg": 4991}
+{"timestamp": 1678898292812, "leadOff": 1, "ecg": 4989}
+{"timestamp": 1678898292816, "leadOff": 1, "ecg": 4994}
+{"timestamp": 1678898292820, "leadOff": 1, "ecg": 5006}
+{"timestamp": 1678898292824, "leadOff": 1, "ecg": 5020}
+{"timestamp": 1678898292828, "leadOff": 1, "ecg": 5026}
+{"timestamp": 1678898292832, "leadOff": 1, "ecg": 5023}
+{"timestamp": 1678898292835, "leadOff": 1, "ecg": 5019}
+{"timestamp": 1678898292839, "leadOff": 1, "ecg": 5018}
+{"timestamp": 1678898292843, "leadOff": 1, "ecg": 5023}
+{"timestamp": 1678898292847, "leadOff": 1, "ecg": 5036}
+{"timestamp": 1678898292851, "leadOff": 1, "ecg": 5056}
+{"timestamp": 1678898292855, "leadOff": 1, "ecg": 5082}
+{"timestamp": 1678898292859, "leadOff": 1, "ecg": 5104}
+{"timestamp": 1678898292863, "leadOff": 1, "ecg": 5114}
+{"timestamp": 1678898292867, "leadOff": 1, "ecg": 5118}
+{"timestamp": 1678898292871, "leadOff": 1, "ecg": 5117}
+{"timestamp": 1678898292875, "leadOff": 1, "ecg": 5113}
+{"timestamp": 1678898292878, "leadOff": 1, "ecg": 5116}
+{"timestamp": 1678898292882, "leadOff": 1, "ecg": 5129}
+{"timestamp": 1678898292886, "leadOff": 1, "ecg": 5144}
+{"timestamp": 1678898292890, "leadOff": 1, "ecg": 5159}
+{"timestamp": 1678898292894, "leadOff": 1, "ecg": 5172}
+{"timestamp": 1678898292898, "leadOff": 1, "ecg": 5181}
+{"timestamp": 1678898292902, "leadOff": 1, "ecg": 5186}
+{"timestamp": 1678898292906, "leadOff": 1, "ecg": 5192}
+{"timestamp": 1678898292910, "leadOff": 1, "ecg": 5203}
+{"timestamp": 1678898292914, "leadOff": 1, "ecg": 5218}
+{"timestamp": 1678898292917, "leadOff": 1, "ecg": 5233}
+{"timestamp": 1678898292921, "leadOff": 1, "ecg": 5243}
+{"timestamp": 1678898292925, "leadOff": 1, "ecg": 5245}
+{"timestamp": 1678898292929, "leadOff": 1, "ecg": 5245}
+{"timestamp": 1678898292933, "leadOff": 1, "ecg": 5248}
+{"timestamp": 1678898292937, "leadOff": 1, "ecg": 5252}
+{"timestamp": 1678898292941, "leadOff": 1, "ecg": 5252}
+{"timestamp": 1678898292945, "leadOff": 1, "ecg": 5254}
+{"timestamp": 1678898292949, "leadOff": 1, "ecg": 5265}
+{"timestamp": 1678898292953, "leadOff": 1, "ecg": 5279}
+{"timestamp": 1678898292957, "leadOff": 1, "ecg": 5293}
+{"timestamp": 1678898292960, "leadOff": 1, "ecg": 5306}
+{"timestamp": 1678898292964, "leadOff": 1, "ecg": 5311}
+{"timestamp": 1678898292968, "leadOff": 1, "ecg": 5306}
+{"timestamp": 1678898292972, "leadOff": 1, "ecg": 5300}
+{"timestamp": 1678898292976, "leadOff": 1, "ecg": 5303}
+{"timestamp": 1678898292980, "leadOff": 1, "ecg": 5313}
+{"timestamp": 1678898292984, "leadOff": 1, "ecg": 5321}
+{"timestamp": 1678898292988, "leadOff": 1, "ecg": 5324}
+{"timestamp": 1678898292992, "leadOff": 1, "ecg": 5333}
+{"timestamp": 1678898292996, "leadOff": 1, "ecg": 5352}
+{"timestamp": 1678898293000, "leadOff": 1, "ecg": 5374}
+{"timestamp": 1678898292031, "bi": -29712}
+{"timestamp": 1678898292093, "bi": -30687}
+{"timestamp": 1678898292156, "bi": -31696}
+{"timestamp": 1678898292218, "bi": -32742}
+{"timestamp": 1678898292281, "bi": 31710}
+{"timestamp": 1678898292343, "bi": 30584}
+{"timestamp": 1678898292406, "bi": 29413}
+{"timestamp": 1678898292468, "bi": 28196}
+{"timestamp": 1678898292531, "bi": 26943}
+{"timestamp": 1678898292593, "bi": 25651}
+{"timestamp": 1678898292656, "bi": 24335}
+{"timestamp": 1678898292718, "bi": 22994}
+{"timestamp": 1678898292781, "bi": 21630}
+{"timestamp": 1678898292843, "bi": 20238}
+{"timestamp": 1678898292906, "bi": 18815}
+{"timestamp": 1678898292968, "bi": 17365}
+{"timestamp": 1678898292031, "x": 695, "y": 6072, "z": 4702}
+{"timestamp": 1678898292093, "x": 1271, "y": 7300, "z": 4758}
+{"timestamp": 1678898292156, "x": 4089, "y": 7147, "z": -3451}
+{"timestamp": 1678898292218, "x": 1485, "y": 6464, "z": -2984}
+{"timestamp": 1678898292281, "x": 2018, "y": 4931, "z": -2715}
+{"timestamp": 1678898292343, "x": 2289, "y": 2442, "z": -1254}
+{"timestamp": 1678898292406, "x": 1478, "y": 2307, "z": -328}
+{"timestamp": 1678898292468, "x": 1370, "y": 2133, "z": -195}
+{"timestamp": 1678898292531, "x": 467, "y": 2534, "z": -299}
+{"timestamp": 1678898292593, "x": -1299, "y": 4066, "z": 1032}
+{"timestamp": 1678898292656, "x": -973, "y": 3777, "z": 1715}
+{"timestamp": 1678898292718, "x": -1227, "y": 1270, "z": 9649}
+{"timestamp": 1678898292781, "x": -1940, "y": -1817, "z": 9757}
+{"timestamp": 1678898292843, "x": -476, "y": -3861, "z": 7632}
+{"timestamp": 1678898292906, "x": 209, "y": -3412, "z": 3063}
+{"timestamp": 1678898292968, "x": 422, "y": -3201, "z": 1006}
+{"timestamp": 1678898293031, "x": 394, "y": -2872, "z": 615}
+{"timestamp": 1678898293093, "x": 662, "y": -2015, "z": -40}
+{"timestamp": 1678898293156, "x": 1464, "y": -2382, "z": -791}
+{"timestamp": 1678898293218, "x": 1890, "y": -3118, "z": -1164}
+{"timestamp": 1678898293281, "x": 2786, "y": -5333, "z": -1548}
+{"timestamp": 1678898293343, "x": 3851, "y": -5977, "z": -460}
+{"timestamp": 1678898293406, "x": 4630, "y": -5858, "z": 1249}
+{"timestamp": 1678898293468, "x": 7742, "y": -3357, "z": 4744}
+{"timestamp": 1678898293531, "x": 9463, "y": 10538, "z": 19876}
+{"timestamp": 1678898293593, "x": -1050, "y": 13244, "z": 7520}
+{"timestamp": 1678898293656, "x": 283, "y": 3625, "z": 7515}
+{"timestamp": 1678898293718, "x": 2169, "y": 7565, "z": 4857}
+{"timestamp": 1678898293781, "x": 2609, "y": 8877, "z": 817}
+{"timestamp": 1678898293843, "x": 2373, "y": 5747, "z": 1295}
+{"timestamp": 1678898293906, "x": 3128, "y": 4265, "z": 1930}
+{"timestamp": 1678898293968, "x": 4131, "y": 3826, "z": -1073}
+{"timestamp": 1678898293003, "leadOff": 1, "ecg": 5401}
+{"timestamp": 1678898293007, "leadOff": 1, "ecg": 5427}
+{"timestamp": 1678898293011, "leadOff": 1, "ecg": 5440}
+{"timestamp": 1678898293015, "leadOff": 1, "ecg": 5441}
+{"timestamp": 1678898293019, "leadOff": 1, "ecg": 5447}
+{"timestamp": 1678898293023, "leadOff": 1, "ecg": 5458}
+{"timestamp": 1678898293027, "leadOff": 1, "ecg": 5464}
+{"timestamp": 1678898293031, "leadOff": 1, "ecg": 5464}
+{"timestamp": 1678898293035, "leadOff": 1, "ecg": 5465}
+{"timestamp": 1678898293039, "leadOff": 1, "ecg": 5468}
+{"timestamp": 1678898293042, "leadOff": 1, "ecg": 5474}
+{"timestamp": 1678898293046, "leadOff": 1, "ecg": 5481}
+{"timestamp": 1678898293050, "leadOff": 1, "ecg": 5491}
+{"timestamp": 1678898293054, "leadOff": 1, "ecg": 5507}
+{"timestamp": 1678898293058, "leadOff": 1, "ecg": 5523}
+{"timestamp": 1678898293062, "leadOff": 1, "ecg": 5532}
+{"timestamp": 1678898293066, "leadOff": 1, "ecg": 5529}
+{"timestamp": 1678898293070, "leadOff": 1, "ecg": 5522}
+{"timestamp": 1678898293074, "leadOff": 1, "ecg": 5525}
+{"timestamp": 1678898293078, "leadOff": 1, "ecg": 5541}
+{"timestamp": 1678898293082, "leadOff": 1, "ecg": 5554}
+{"timestamp": 1678898293085, "leadOff": 1, "ecg": 5560}
+{"timestamp": 1678898293089, "leadOff": 1, "ecg": 5565}
+{"timestamp": 1678898293093, "leadOff": 1, "ecg": 5571}
+{"timestamp": 1678898293097, "leadOff": 1, "ecg": 5577}
+{"timestamp": 1678898293101, "leadOff": 1, "ecg": 5584}
+{"timestamp": 1678898293105, "leadOff": 1, "ecg": 5592}
+{"timestamp": 1678898293109, "leadOff": 1, "ecg": 5599}
+{"timestamp": 1678898293113, "leadOff": 1, "ecg": 5605}
+{"timestamp": 1678898293117, "leadOff": 1, "ecg": 5615}
+{"timestamp": 1678898293121, "leadOff": 1, "ecg": 5628}
+{"timestamp": 1678898293125, "leadOff": 1, "ecg": 5643}
+{"timestamp": 1678898293128, "leadOff": 1, "ecg": 5659}
+{"timestamp": 1678898293132, "leadOff": 1, "ecg": 5677}
+{"timestamp": 1678898293136, "leadOff": 1, "ecg": 5689}
+{"timestamp": 1678898293140, "leadOff": 1, "ecg": 5693}
+{"timestamp": 1678898293144, "leadOff": 1, "ecg": 5697}
+{"timestamp": 1678898293148, "leadOff": 1, "ecg": 5708}
+{"timestamp": 1678898293152, "leadOff": 1, "ecg": 5726}
+{"timestamp": 1678898293156, "leadOff": 1, "ecg": 5744}
+{"timestamp": 1678898293160, "leadOff": 1, "ecg": 5756}
+{"timestamp": 1678898293164, "leadOff": 1, "ecg": 5760}
+{"timestamp": 1678898293167, "leadOff": 1, "ecg": 5761}
+{"timestamp": 1678898293171, "leadOff": 1, "ecg": 5762}
+{"timestamp": 1678898293175, "leadOff": 1, "ecg": 5761}
+{"timestamp": 1678898293179, "leadOff": 1, "ecg": 5767}
+{"timestamp": 1678898293183, "leadOff": 1, "ecg": 5787}
+{"timestamp": 1678898293187, "leadOff": 1, "ecg": 5814}
+{"timestamp": 1678898293191, "leadOff": 1, "ecg": 5836}
+{"timestamp": 1678898293195, "leadOff": 1, "ecg": 5852}
+{"timestamp": 1678898293199, "leadOff": 1, "ecg": 5868}
+{"timestamp": 1678898293203, "leadOff": 1, "ecg": 5880}
+{"timestamp": 1678898293207, "leadOff": 1, "ecg": 5889}
+{"timestamp": 1678898293210, "leadOff": 1, "ecg": 5894}
+{"timestamp": 1678898293214, "leadOff": 1, "ecg": 5892}
+{"timestamp": 1678898293218, "leadOff": 1, "ecg": 5890}
+{"timestamp": 1678898293222, "leadOff": 1, "ecg": 5900}
+{"timestamp": 1678898293226, "leadOff": 1, "ecg": 5917}
+{"timestamp": 1678898293230, "leadOff": 1, "ecg": 5935}
+{"timestamp": 1678898293234, "leadOff": 1, "ecg": 5949}
+{"timestamp": 1678898293238, "leadOff": 1, "ecg": 5957}
+{"timestamp": 1678898293242, "leadOff": 1, "ecg": 5963}
+{"timestamp": 1678898293246, "leadOff": 1, "ecg": 5967}
+{"timestamp": 1678898293250, "leadOff": 1, "ecg": 5971}
+{"timestamp": 1678898293253, "leadOff": 1, "ecg": 5980}
+{"timestamp": 1678898293257, "leadOff": 1, "ecg": 5993}
+{"timestamp": 1678898293261, "leadOff": 1, "ecg": 6001}
+{"timestamp": 1678898293265, "leadOff": 1, "ecg": 6003}
+{"timestamp": 1678898293269, "leadOff": 1, "ecg": 6012}
+{"timestamp": 1678898293273, "leadOff": 1, "ecg": 6023}
+{"timestamp": 1678898293277, "leadOff": 1, "ecg": 6030}
+{"timestamp": 1678898293281, "leadOff": 1, "ecg": 6040}
+{"timestamp": 1678898293285, "leadOff": 1, "ecg": 6056}
+{"timestamp": 1678898293289, "leadOff": 1, "ecg": 6076}
+{"timestamp": 1678898293292, "leadOff": 1, "ecg": 6093}
+{"timestamp": 1678898293296, "leadOff": 1, "ecg": 6107}
+{"timestamp": 1678898293300, "leadOff": 1, "ecg": 6122}
+{"timestamp": 1678898293304, "leadOff": 1, "ecg": 6134}
+{"timestamp": 1678898293308, "leadOff": 1, "ecg": 6142}
+{"timestamp": 1678898293312, "leadOff": 1, "ecg": 6150}
+{"timestamp": 1678898293316, "leadOff": 1, "ecg": 6156}
+{"timestamp": 1678898293320, "leadOff": 1, "ecg": 6163}
+{"timestamp": 1678898293324, "leadOff": 1, "ecg": 6173}
+{"timestamp": 1678898293328, "leadOff": 1, "ecg": 6187}
+{"timestamp": 1678898293332, "leadOff": 1, "ecg": 6197}
+{"timestamp": 1678898293335, "leadOff": 1, "ecg": 6208}
+{"timestamp": 1678898293339, "leadOff": 1, "ecg": 6224}
+{"timestamp": 1678898293343, "leadOff": 1, "ecg": 6238}
+{"timestamp": 1678898293347, "leadOff": 1, "ecg": 6247}
+{"timestamp": 1678898293351, "leadOff": 1, "ecg": 6252}
+{"timestamp": 1678898293355, "leadOff": 1, "ecg": 6252}
+{"timestamp": 1678898293359, "leadOff": 1, "ecg": 6254}
+{"timestamp": 1678898293363, "leadOff": 1, "ecg": 6262}
+{"timestamp": 1678898293367, "leadOff": 1, "ecg": 6274}
+{"timestamp": 1678898293371, "leadOff": 1, "ecg": 6281}
+{"timestamp": 1678898293375, "leadOff": 1, "ecg": 6291}
+{"timestamp": 1678898293378, "leadOff": 1, "ecg": 6310}
+{"timestamp": 1678898293382, "leadOff": 1, "ecg": 6330}
+{"timestamp": 1678898293386, "leadOff": 1, "ecg": 6341}
+{"timestamp": 1678898293390, "leadOff": 1, "ecg": 6353}
+{"timestamp": 1678898293394, "leadOff": 1, "ecg": 6372}
+{"timestamp": 1678898293398, "leadOff": 1, "ecg": 6391}
+{"timestamp": 1678898293402, "leadOff": 1, "ecg": 6402}
+{"timestamp": 1678898293406, "leadOff": 1, "ecg": 6404}
+{"timestamp": 1678898293410, "leadOff": 1, "ecg": 6403}
+{"timestamp": 1678898293414, "leadOff": 1, "ecg": 6407}
+{"timestamp": 1678898293417, "leadOff": 1, "ecg": 6411}
+{"timestamp": 1678898293421, "leadOff": 1, "ecg": 6419}
+{"timestamp": 1678898293425, "leadOff": 1, "ecg": 6436}
+{"timestamp": 1678898293429, "leadOff": 1, "ecg": 6454}
+{"timestamp": 1678898293433, "leadOff": 1, "ecg": 6465}
+{"timestamp": 1678898293437, "leadOff": 1, "ecg": 6475}
+{"timestamp": 1678898293441, "leadOff": 1, "ecg": 6491}
+{"timestamp": 1678898293445, "leadOff": 1, "ecg": 6506}
+{"timestamp": 1678898293449, "leadOff": 1, "ecg": 6513}
+{"timestamp": 1678898293453, "leadOff": 1, "ecg": 6517}
+{"timestamp": 1678898293457, "leadOff": 1, "ecg": 6524}
+{"timestamp": 1678898293460, "leadOff": 1, "ecg": 6532}
+{"timestamp": 1678898293464, "leadOff": 1, "ecg": 6544}
+{"timestamp": 1678898293468, "leadOff": 1, "ecg": 6560}
+{"timestamp": 1678898293472, "leadOff": 1, "ecg": 6576}
+{"timestamp": 1678898293476, "leadOff": 1, "ecg": 6588}
+{"timestamp": 1678898293480, "leadOff": 1, "ecg": 6604}
+{"timestamp": 1678898293484, "leadOff": 1, "ecg": 6626}
+{"timestamp": 1678898293488, "leadOff": 1, "ecg": 6643}
+{"timestamp": 1678898293492, "leadOff": 1, "ecg": 6649}
+{"timestamp": 1678898293496, "leadOff": 1, "ecg": 6656}
+{"timestamp": 1678898293500, "leadOff": 1, "ecg": 6666}
+{"timestamp": 1678898293503, "leadOff": 1, "ecg": 6674}
+{"timestamp": 1678898293507, "leadOff": 1, "ecg": 6676}
+{"timestamp": 1678898293511, "leadOff": 1, "ecg": 6679}
+{"timestamp": 1678898293515, "leadOff": 1, "ecg": 6690}
+{"timestamp": 1678898293519, "leadOff": 1, "ecg": 6707}
+{"timestamp": 1678898293523, "leadOff": 1, "ecg": 6727}
+{"timestamp": 1678898293527, "leadOff": 1, "ecg": 6746}
+{"timestamp": 1678898293531, "leadOff": 1, "ecg": 6757}
+{"timestamp": 1678898293535, "leadOff": 1, "ecg": 6764}
+{"timestamp": 1678898293539, "leadOff": 1, "ecg": 6777}
+{"timestamp": 1678898293542, "leadOff": 1, "ecg": 6794}
+{"timestamp": 1678898293546, "leadOff": 1, "ecg": 6807}
+{"timestamp": 1678898293550, "leadOff": 1, "ecg": 6815}
+{"timestamp": 1678898293554, "leadOff": 1, "ecg": 6824}
+{"timestamp": 1678898293558, "leadOff": 1, "ecg": 6836}
+{"timestamp": 1678898293562, "leadOff": 1, "ecg": 6849}
+{"timestamp": 1678898293566, "leadOff": 1, "ecg": 6862}
+{"timestamp": 1678898293570, "leadOff": 1, "ecg": 6872}
+{"timestamp": 1678898293574, "leadOff": 1, "ecg": 6881}
+{"timestamp": 1678898293578, "leadOff": 1, "ecg": 6893}
+{"timestamp": 1678898293582, "leadOff": 1, "ecg": 6910}
+{"timestamp": 1678898293585, "leadOff": 1, "ecg": 6927}
+{"timestamp": 1678898293589, "leadOff": 1, "ecg": 6940}
+{"timestamp": 1678898293593, "leadOff": 1, "ecg": 6945}
+{"timestamp": 1678898293597, "leadOff": 1, "ecg": 6950}
+{"timestamp": 1678898293601, "leadOff": 1, "ecg": 6959}
+{"timestamp": 1678898293605, "leadOff": 1, "ecg": 6967}
+{"timestamp": 1678898293609, "leadOff": 1, "ecg": 6970}
+{"timestamp": 1678898293613, "leadOff": 1, "ecg": 6979}
+{"timestamp": 1678898293617, "leadOff": 1, "ecg": 6994}
+{"timestamp": 1678898293621, "leadOff": 1, "ecg": 7008}
+{"timestamp": 1678898293625, "leadOff": 1, "ecg": 7019}
+{"timestamp": 1678898293628, "leadOff": 1, "ecg": 7024}
+{"timestamp": 1678898293632, "leadOff": 1, "ecg": 7025}
+{"timestamp": 1678898293636, "leadOff": 1, "ecg": 7029}
+{"timestamp": 1678898293640, "leadOff": 1, "ecg": 7040}
+{"timestamp": 1678898293644, "leadOff": 1, "ecg": 7056}
+{"timestamp": 1678898293648, "leadOff": 1, "ecg": 7076}
+{"timestamp": 1678898293652, "leadOff": 1, "ecg": 7101}
+{"timestamp": 1678898293656, "leadOff": 1, "ecg": 7131}
+{"timestamp": 1678898293660, "leadOff": 1, "ecg": 7157}
+{"timestamp": 1678898293664, "leadOff": 1, "ecg": 7169}
+{"timestamp": 1678898293667, "leadOff": 1, "ecg": 7173}
+{"timestamp": 1678898293671, "leadOff": 1, "ecg": 7176}
+{"timestamp": 1678898293675, "leadOff": 1, "ecg": 7171}
+{"timestamp": 1678898293679, "leadOff": 1, "ecg": 7167}
+{"timestamp": 1678898293683, "leadOff": 1, "ecg": 7177}
+{"timestamp": 1678898293687, "leadOff": 1, "ecg": 7191}
+{"timestamp": 1678898293691, "leadOff": 1, "ecg": 7199}
+{"timestamp": 1678898293695, "leadOff": 1, "ecg": 7206}
+{"timestamp": 1678898293699, "leadOff": 1, "ecg": 7215}
+{"timestamp": 1678898293703, "leadOff": 1, "ecg": 7222}
+{"timestamp": 1678898293707, "leadOff": 1, "ecg": 7234}
+{"timestamp": 1678898293710, "leadOff": 1, "ecg": 7251}
+{"timestamp": 1678898293714, "leadOff": 1, "ecg": 7271}
+{"timestamp": 1678898293718, "leadOff": 1, "ecg": 7291}
+{"timestamp": 1678898293722, "leadOff": 1, "ecg": 7308}
+{"timestamp": 1678898293726, "leadOff": 1, "ecg": 7323}
+{"timestamp": 1678898293730, "leadOff": 1, "ecg": 7340}
+{"timestamp": 1678898293734, "leadOff": 1, "ecg": 7361}
+{"timestamp": 1678898293738, "leadOff": 1, "ecg": 7381}
+{"timestamp": 1678898293742, "leadOff": 1, "ecg": 7396}
+{"timestamp": 1678898293746, "leadOff": 1, "ecg": 7406}
+{"timestamp": 1678898293750, "leadOff": 1, "ecg": 7412}
+{"timestamp": 1678898293753, "leadOff": 1, "ecg": 7423}
+{"timestamp": 1678898293757, "leadOff": 1, "ecg": 7440}
+{"timestamp": 1678898293761, "leadOff": 1, "ecg": 7452}
+{"timestamp": 1678898293765, "leadOff": 1, "ecg": 7454}
+{"timestamp": 1678898293769, "leadOff": 1, "ecg": 7459}
+{"timestamp": 1678898293773, "leadOff": 1, "ecg": 7469}
+{"timestamp": 1678898293777, "leadOff": 1, "ecg": 7475}
+{"timestamp": 1678898293781, "leadOff": 1, "ecg": 7475}
+{"timestamp": 1678898293785, "leadOff": 1, "ecg": 7484}
+{"timestamp": 1678898293789, "leadOff": 1, "ecg": 7503}
+{"timestamp": 1678898293792, "leadOff": 1, "ecg": 7523}
+{"timestamp": 1678898293796, "leadOff": 1, "ecg": 7539}
+{"timestamp": 1678898293800, "leadOff": 1, "ecg": 7556}
+{"timestamp": 1678898293804, "leadOff": 1, "ecg": 7573}
+{"timestamp": 1678898293808, "leadOff": 1, "ecg": 7591}
+{"timestamp": 1678898293812, "leadOff": 1, "ecg": 7607}
+{"timestamp": 1678898293816, "leadOff": 1, "ecg": 7610}
+{"timestamp": 1678898293820, "leadOff": 1, "ecg": 7607}
+{"timestamp": 1678898293824, "leadOff": 1, "ecg": 7611}
+{"timestamp": 1678898293828, "leadOff": 1, "ecg": 7625}
+{"timestamp": 1678898293832, "leadOff": 1, "ecg": 7644}
+{"timestamp": 1678898293835, "leadOff": 1, "ecg": 7666}
+{"timestamp": 1678898293839, "leadOff": 1, "ecg": 7685}
+{"timestamp": 1678898293843, "leadOff": 1, "ecg": 7693}
+{"timestamp": 1678898293847, "leadOff": 1, "ecg": 7693}
+{"timestamp": 1678898293851, "leadOff": 1, "ecg": 7697}
+{"timestamp": 1678898293855, "leadOff": 1, "ecg": 7703}
+{"timestamp": 1678898293859, "leadOff": 1, "ecg": 7710}
+{"timestamp": 1678898293863, "leadOff": 1, "ecg": 7717}
+{"timestamp": 1678898293867, "leadOff": 1, "ecg": 7725}
+{"timestamp": 1678898293871, "leadOff": 1, "ecg": 7730}
+{"timestamp": 1678898293875, "leadOff": 1, "ecg": 7739}
+{"timestamp": 1678898293878, "leadOff": 1, "ecg": 7760}
+{"timestamp": 1678898293882, "leadOff": 1, "ecg": 7781}
+{"timestamp": 1678898293886, "leadOff": 1, "ecg": 7794}
+{"timestamp": 1678898293890, "leadOff": 1, "ecg": 7804}
+{"timestamp": 1678898293894, "leadOff": 1, "ecg": 7816}
+{"timestamp": 1678898293898, "leadOff": 1, "ecg": 7829}
+{"timestamp": 1678898293902, "leadOff": 1, "ecg": 7841}
+{"timestamp": 1678898293906, "leadOff": 1, "ecg": 7854}
+{"timestamp": 1678898293910, "leadOff": 1, "ecg": 7874}
+{"timestamp": 1678898293914, "leadOff": 1, "ecg": 7903}
+{"timestamp": 1678898293917, "leadOff": 1, "ecg": 7933}
+{"timestamp": 1678898293921, "leadOff": 1, "ecg": 7957}
+{"timestamp": 1678898293925, "leadOff": 1, "ecg": 7969}
+{"timestamp": 1678898293929, "leadOff": 1, "ecg": 7968}
+{"timestamp": 1678898293933, "leadOff": 1, "ecg": 7969}
+{"timestamp": 1678898293937, "leadOff": 1, "ecg": 7982}
+{"timestamp": 1678898293941, "leadOff": 1, "ecg": 8001}
+{"timestamp": 1678898293945, "leadOff": 1, "ecg": 8023}
+{"timestamp": 1678898293949, "leadOff": 1, "ecg": 8045}
+{"timestamp": 1678898293953, "leadOff": 1, "ecg": 8057}
+{"timestamp": 1678898293957, "leadOff": 1, "ecg": 8062}
+{"timestamp": 1678898293960, "leadOff": 1, "ecg": 8069}
+{"timestamp": 1678898293964, "leadOff": 1, "ecg": 8082}
+{"timestamp": 1678898293968, "leadOff": 1, "ecg": 8103}
+{"timestamp": 1678898293972, "leadOff": 1, "ecg": 8125}
+{"timestamp": 1678898293976, "leadOff": 1, "ecg": 8143}
+{"timestamp": 1678898293980, "leadOff": 1, "ecg": 8162}
+{"timestamp": 1678898293984, "leadOff": 1, "ecg": 8189}
+{"timestamp": 1678898293988, "leadOff": 1, "ecg": 8211}
+{"timestamp": 1678898293992, "leadOff": 1, "ecg": 8223}
+{"timestamp": 1678898293996, "leadOff": 1, "ecg": 8239}
+{"timestamp": 1678898294000, "leadOff": 1, "ecg": 8256}
+{"timestamp": 1678898293031, "bi": 15896}
+{"timestamp": 1678898293093, "bi": 14403}
+{"timestamp": 1678898293156, "bi": 12890}
+{"timestamp": 1678898293218, "bi": 11355}
+{"timestamp": 1678898293281, "bi": 9800}
+{"timestamp": 1678898293343, "bi": 8218}
+{"timestamp": 1678898293406, "bi": 6611}
+{"timestamp": 1678898293468, "bi": 4988}
+{"timestamp": 1678898293531, "bi": 3357}
+{"timestamp": 1678898293593, "bi": 1708}
+{"timestamp": 1678898293656, "bi": 42}
+{"timestamp": 1678898293718, "bi": -1638}
+{"timestamp": 1678898293781, "bi": -3342}
+{"timestamp": 1678898293843, "bi": -5062}
+{"timestamp": 1678898293906, "bi": -6799}
+{"timestamp": 1678898293968, "bi": -8548}
+{"timestamp": 1678898293031, "x": 2240, "y": 3349, "z": -1456}
+{"timestamp": 1678898293093, "x": 3248, "y": 1259, "z": -102}
+{"timestamp": 1678898293156, "x": 3421, "y": 570, "z": -168}
+{"timestamp": 1678898293218, "x": 3849, "y": 886, "z": -3077}
+{"timestamp": 1678898293281, "x": 3990, "y": 3752, "z": -1500}
+{"timestamp": 1678898293343, "x": 4087, "y": 4963, "z": -1002}
+{"timestamp": 1678898293406, "x": 2870, "y": 7784, "z": 1333}
+{"timestamp": 1678898293468, "x": 1385, "y": 8788, "z": 3705}
+{"timestamp": 1678898293531, "x": -986, "y": 8822, "z": 6982}
+{"timestamp": 1678898293593, "x": -1395, "y": 5293, "z": 9757}
+{"timestamp": 1678898293656, "x": 305, "y": -805, "z": 7134}
+{"timestamp": 1678898293718, "x": 481, "y": -2118, "z": 5351}
+{"timestamp": 1678898293781, "x": 1303, "y": -2441, "z": 2976}
+{"timestamp": 1678898293843, "x": 1519, "y": -2224, "z": 1830}
+{"timestamp": 1678898293906, "x": 2026, "y": -2837, "z": 522}
+{"timestamp": 1678898293968, "x": 2488, "y": -4242, "z": 151}
+{"timestamp": 1678898294031, "x": 2829, "y": -5630, "z": 198}
+{"timestamp": 1678898294093, "x": 3053, "y": -6265, "z": 611}
+{"timestamp": 1678898294156, "x": 3395, "y": -6884, "z": 1135}
+{"timestamp": 1678898294218, "x": 3877, "y": -6049, "z": 1437}
+{"timestamp": 1678898294281, "x": 7411, "y": -2145, "z": 5159}
+{"timestamp": 1678898294343, "x": -7696, "y": 18624, "z": 12586}
+{"timestamp": 1678898294406, "x": -3631, "y": 976, "z": 8187}
+{"timestamp": 1678898294468, "x": -3432, "y": 3433, "z": 4827}
+{"timestamp": 1678898294531, "x": -1778, "y": 4404, "z": 2337}
+{"timestamp": 1678898294593, "x": -331, "y": 2722, "z": 1126}
+{"timestamp": 1678898294656, "x": 707, "y": 1874, "z": -2386}
+{"timestamp": 1678898294718, "x": 1468, "y": 2007, "z": -7389}
+{"timestamp": 1678898294781, "x": 2049, "y": -629, "z": -4593}
+{"timestamp": 1678898294843, "x": 1743, "y": -649, "z": -3022}
+{"timestamp": 1678898294906, "x": 1259, "y": 1470, "z": -2847}
+{"timestamp": 1678898294968, "x": 4568, "y": -2005, "z": -1149}
+{"timestamp": 1678898294003, "leadOff": 1, "ecg": 8259}
+{"timestamp": 1678898294007, "leadOff": 1, "ecg": 8257}
+{"timestamp": 1678898294011, "leadOff": 1, "ecg": 8264}
+{"timestamp": 1678898294015, "leadOff": 1, "ecg": 8277}
+{"timestamp": 1678898294019, "leadOff": 1, "ecg": 8286}
+{"timestamp": 1678898294023, "leadOff": 1, "ecg": 8292}
+{"timestamp": 1678898294027, "leadOff": 1, "ecg": 8299}
+{"timestamp": 1678898294031, "leadOff": 1, "ecg": 8305}
+{"timestamp": 1678898294035, "leadOff": 1, "ecg": 8306}
+{"timestamp": 1678898294039, "leadOff": 1, "ecg": 8308}
+{"timestamp": 1678898294042, "leadOff": 1, "ecg": 8315}
+{"timestamp": 1678898294046, "leadOff": 1, "ecg": 8326}
+{"timestamp": 1678898294050, "leadOff": 1, "ecg": 8340}
+{"timestamp": 1678898294054, "leadOff": 1, "ecg": 8354}
+{"timestamp": 1678898294058, "leadOff": 1, "ecg": 8368}
+{"timestamp": 1678898294062, "leadOff": 1, "ecg": 8388}
+{"timestamp": 1678898294066, "leadOff": 1, "ecg": 8414}
+{"timestamp": 1678898294070, "leadOff": 1, "ecg": 8439}
+{"timestamp": 1678898294074, "leadOff": 1, "ecg": 8457}
+{"timestamp": 1678898294078, "leadOff": 1, "ecg": 8472}
+{"timestamp": 1678898294082, "leadOff": 1, "ecg": 8486}
+{"timestamp": 1678898294085, "leadOff": 1, "ecg": 8495}
+{"timestamp": 1678898294089, "leadOff": 1, "ecg": 8504}
+{"timestamp": 1678898294093, "leadOff": 1, "ecg": 8519}
+{"timestamp": 1678898294097, "leadOff": 1, "ecg": 8535}
+{"timestamp": 1678898294101, "leadOff": 1, "ecg": 8553}
+{"timestamp": 1678898294105, "leadOff": 1, "ecg": 8570}
+{"timestamp": 1678898294109, "leadOff": 1, "ecg": 8581}
+{"timestamp": 1678898294113, "leadOff": 1, "ecg": 8590}
+{"timestamp": 1678898294117, "leadOff": 1, "ecg": 8604}
+{"timestamp": 1678898294121, "leadOff": 1, "ecg": 8621}
+{"timestamp": 1678898294125, "leadOff": 1, "ecg": 8636}
+{"timestamp": 1678898294128, "leadOff": 1, "ecg": 8648}
+{"timestamp": 1678898294132, "leadOff": 1, "ecg": 8661}
+{"timestamp": 1678898294136, "leadOff": 1, "ecg": 8673}
+{"timestamp": 1678898294140, "leadOff": 1, "ecg": 8684}
+{"timestamp": 1678898294144, "leadOff": 1, "ecg": 8693}
+{"timestamp": 1678898294148, "leadOff": 1, "ecg": 8701}
+{"timestamp": 1678898294152, "leadOff": 1, "ecg": 8711}
+{"timestamp": 1678898294156, "leadOff": 1, "ecg": 8723}
+{"timestamp": 1678898294160, "leadOff": 1, "ecg": 8733}
+{"timestamp": 1678898294164, "leadOff": 1, "ecg": 8741}
+{"timestamp": 1678898294167, "leadOff": 1, "ecg": 8750}
+{"timestamp": 1678898294171, "leadOff": 1, "ecg": 8762}
+{"timestamp": 1678898294175, "leadOff": 1, "ecg": 8781}
+{"timestamp": 1678898294179, "leadOff": 1, "ecg": 8800}
+{"timestamp": 1678898294183, "leadOff": 1, "ecg": 8814}
+{"timestamp": 1678898294187, "leadOff": 1, "ecg": 8828}
+{"timestamp": 1678898294191, "leadOff": 1, "ecg": 8843}
+{"timestamp": 1678898294195, "leadOff": 1, "ecg": 8858}
+{"timestamp": 1678898294199, "leadOff": 1, "ecg": 8874}
+{"timestamp": 1678898294203, "leadOff": 1, "ecg": 8888}
+{"timestamp": 1678898294207, "leadOff": 1, "ecg": 8902}
+{"timestamp": 1678898294210, "leadOff": 1, "ecg": 8919}
+{"timestamp": 1678898294214, "leadOff": 1, "ecg": 8937}
+{"timestamp": 1678898294218, "leadOff": 1, "ecg": 8954}
+{"timestamp": 1678898294222, "leadOff": 1, "ecg": 8970}
+{"timestamp": 1678898294226, "leadOff": 1, "ecg": 8984}
+{"timestamp": 1678898294230, "leadOff": 1, "ecg": 8991}
+{"timestamp": 1678898294234, "leadOff": 1, "ecg": 8994}
+{"timestamp": 1678898294238, "leadOff": 1, "ecg": 9004}
+{"timestamp": 1678898294242, "leadOff": 1, "ecg": 9023}
+{"timestamp": 1678898294246, "leadOff": 1, "ecg": 9045}
+{"timestamp": 1678898294250, "leadOff": 1, "ecg": 9064}
+{"timestamp": 1678898294253, "leadOff": 1, "ecg": 9077}
+{"timestamp": 1678898294257, "leadOff": 1, "ecg": 9087}
+{"timestamp": 1678898294261, "leadOff": 1, "ecg": 9098}
+{"timestamp": 1678898294265, "leadOff": 1, "ecg": 9113}
+{"timestamp": 1678898294269, "leadOff": 1, "ecg": 9132}
+{"timestamp": 1678898294273, "leadOff": 1, "ecg": 9149}
+{"timestamp": 1678898294277, "leadOff": 1, "ecg": 9160}
+{"timestamp": 1678898294281, "leadOff": 1, "ecg": 9176}
+{"timestamp": 1678898294285, "leadOff": 1, "ecg": 9198}
+{"timestamp": 1678898294289, "leadOff": 1, "ecg": 9218}
+{"timestamp": 1678898294292, "leadOff": 1, "ecg": 9234}
+{"timestamp": 1678898294296, "leadOff": 1, "ecg": 9247}
+{"timestamp": 1678898294300, "leadOff": 1, "ecg": 9257}
+{"timestamp": 1678898294304, "leadOff": 1, "ecg": 9268}
+{"timestamp": 1678898294308, "leadOff": 1, "ecg": 9285}
+{"timestamp": 1678898294312, "leadOff": 1, "ecg": 9305}
+{"timestamp": 1678898294316, "leadOff": 1, "ecg": 9323}
+{"timestamp": 1678898294320, "leadOff": 1, "ecg": 9339}
+{"timestamp": 1678898294324, "leadOff": 1, "ecg": 9353}
+{"timestamp": 1678898294328, "leadOff": 1, "ecg": 9367}
+{"timestamp": 1678898294332, "leadOff": 1, "ecg": 9378}
+{"timestamp": 1678898294335, "leadOff": 1, "ecg": 9387}
+{"timestamp": 1678898294339, "leadOff": 1, "ecg": 9403}
+{"timestamp": 1678898294343, "leadOff": 1, "ecg": 9425}
+{"timestamp": 1678898294347, "leadOff": 1, "ecg": 9443}
+{"timestamp": 1678898294351, "leadOff": 1, "ecg": 9452}
+{"timestamp": 1678898294355, "leadOff": 1, "ecg": 9460}
+{"timestamp": 1678898294359, "leadOff": 1, "ecg": 9473}
+{"timestamp": 1678898294363, "leadOff": 1, "ecg": 9491}
+{"timestamp": 1678898294367, "leadOff": 1, "ecg": 9507}
+{"timestamp": 1678898294371, "leadOff": 1, "ecg": 9530}
+{"timestamp": 1678898294375, "leadOff": 1, "ecg": 9554}
+{"timestamp": 1678898294378, "leadOff": 1, "ecg": 9568}
+{"timestamp": 1678898294382, "leadOff": 1, "ecg": 9580}
+{"timestamp": 1678898294386, "leadOff": 1, "ecg": 9591}
+{"timestamp": 1678898294390, "leadOff": 1, "ecg": 9597}
+{"timestamp": 1678898294394, "leadOff": 1, "ecg": 9600}
+{"timestamp": 1678898294398, "leadOff": 1, "ecg": 9606}
+{"timestamp": 1678898294402, "leadOff": 1, "ecg": 9619}
+{"timestamp": 1678898294406, "leadOff": 1, "ecg": 9639}
+{"timestamp": 1678898294410, "leadOff": 1, "ecg": 9658}
+{"timestamp": 1678898294414, "leadOff": 1, "ecg": 9671}
+{"timestamp": 1678898294417, "leadOff": 1, "ecg": 9679}
+{"timestamp": 1678898294421, "leadOff": 1, "ecg": 9682}
+{"timestamp": 1678898294425, "leadOff": 1, "ecg": 9688}
+{"timestamp": 1678898294429, "leadOff": 1, "ecg": 9701}
+{"timestamp": 1678898294433, "leadOff": 1, "ecg": 9721}
+{"timestamp": 1678898294437, "leadOff": 1, "ecg": 9743}
+{"timestamp": 1678898294441, "leadOff": 1, "ecg": 9763}
+{"timestamp": 1678898294445, "leadOff": 1, "ecg": 9781}
+{"timestamp": 1678898294449, "leadOff": 1, "ecg": 9796}
+{"timestamp": 1678898294453, "leadOff": 1, "ecg": 9812}
+{"timestamp": 1678898294457, "leadOff": 1, "ecg": 9833}
+{"timestamp": 1678898294460, "leadOff": 1, "ecg": 9853}
+{"timestamp": 1678898294464, "leadOff": 1, "ecg": 9870}
+{"timestamp": 1678898294468, "leadOff": 1, "ecg": 9887}
+{"timestamp": 1678898294472, "leadOff": 1, "ecg": 9908}
+{"timestamp": 1678898294476, "leadOff": 1, "ecg": 9926}
+{"timestamp": 1678898294480, "leadOff": 1, "ecg": 9939}
+{"timestamp": 1678898294484, "leadOff": 1, "ecg": 9948}
+{"timestamp": 1678898294488, "leadOff": 1, "ecg": 9962}
+{"timestamp": 1678898294492, "leadOff": 1, "ecg": 9980}
+{"timestamp": 1678898294496, "leadOff": 1, "ecg": 9993}
+{"timestamp": 1678898294500, "leadOff": 1, "ecg": 10001}
+{"timestamp": 1678898294503, "leadOff": 1, "ecg": 10011}
+{"timestamp": 1678898294507, "leadOff": 1, "ecg": 10022}
+{"timestamp": 1678898294511, "leadOff": 1, "ecg": 10032}
+{"timestamp": 1678898294515, "leadOff": 1, "ecg": 10046}
+{"timestamp": 1678898294519, "leadOff": 1, "ecg": 10069}
+{"timestamp": 1678898294523, "leadOff": 1, "ecg": 10100}
+{"timestamp": 1678898294527, "leadOff": 1, "ecg": 10131}
+{"timestamp": 1678898294531, "leadOff": 1, "ecg": 10158}
+{"timestamp": 1678898294535, "leadOff": 1, "ecg": 10172}
+{"timestamp": 1678898294539, "leadOff": 1, "ecg": 10174}
+{"timestamp": 1678898294542, "leadOff": 1, "ecg": 10178}
+{"timestamp": 1678898294546, "leadOff": 1, "ecg": 10192}
+{"timestamp": 1678898294550, "leadOff": 1, "ecg": 10208}
+{"timestamp": 1678898294554, "leadOff": 1, "ecg": 10224}
+{"timestamp": 1678898294558, "leadOff": 1, "ecg": 10239}
+{"timestamp": 1678898294562, "leadOff": 1, "ecg": 10248}
+{"timestamp": 1678898294566, "leadOff": 1, "ecg": 10255}
+{"timestamp": 1678898294570, "leadOff": 1, "ecg": 10266}
+{"timestamp": 1678898294574, "leadOff": 1, "ecg": 10279}
+{"timestamp": 1678898294578, "leadOff": 1, "ecg": 10292}
+{"timestamp": 1678898294582, "leadOff": 1, "ecg": 10309}
+{"timestamp": 1678898294585, "leadOff": 1, "ecg": 10326}
+{"timestamp": 1678898294589, "leadOff": 1, "ecg": 10342}
+{"timestamp": 1678898294593, "leadOff": 1, "ecg": 10363}
+{"timestamp": 1678898294597, "leadOff": 1, "ecg": 10385}
+{"timestamp": 1678898294601, "leadOff": 1, "ecg": 10401}
+{"timestamp": 1678898294605, "leadOff": 1, "ecg": 10412}
+{"timestamp": 1678898294609, "leadOff": 1, "ecg": 10425}
+{"timestamp": 1678898294613, "leadOff": 1, "ecg": 10444}
+{"timestamp": 1678898294617, "leadOff": 1, "ecg": 10457}
+{"timestamp": 1678898294621, "leadOff": 1, "ecg": 10460}
+{"timestamp": 1678898294625, "leadOff": 1, "ecg": 10465}
+{"timestamp": 1678898294628, "leadOff": 1, "ecg": 10475}
+{"timestamp": 1678898294632, "leadOff": 1, "ecg": 10487}
+{"timestamp": 1678898294636, "leadOff": 1, "ecg": 10502}
+{"timestamp": 1678898294640, "leadOff": 1, "ecg": 10524}
+{"timestamp": 1678898294644, "leadOff": 1, "ecg": 10548}
+{"timestamp": 1678898294648, "leadOff": 1, "ecg": 10565}
+{"timestamp": 1678898294652, "leadOff": 1, "ecg": 10570}
+{"timestamp": 1678898294656, "leadOff": 1, "ecg": 10577}
+{"timestamp": 1678898294660, "leadOff": 1, "ecg": 10593}
+{"timestamp": 1678898294664, "leadOff": 1, "ecg": 10609}
+{"timestamp": 1678898294667, "leadOff": 1, "ecg": 10622}
+{"timestamp": 1678898294671, "leadOff": 1, "ecg": 10634}
+{"timestamp": 1678898294675, "leadOff": 1, "ecg": 10650}
+{"timestamp": 1678898294679, "leadOff": 1, "ecg": 10666}
+{"timestamp": 1678898294683, "leadOff": 1, "ecg": 10679}
+{"timestamp": 1678898294687, "leadOff": 1, "ecg": 10695}
+{"timestamp": 1678898294691, "leadOff": 1, "ecg": 10715}
+{"timestamp": 1678898294695, "leadOff": 1, "ecg": 10736}
+{"timestamp": 1678898294699, "leadOff": 1, "ecg": 10751}
+{"timestamp": 1678898294703, "leadOff": 1, "ecg": 10766}
+{"timestamp": 1678898294707, "leadOff": 1, "ecg": 10786}
+{"timestamp": 1678898294710, "leadOff": 1, "ecg": 10810}
+{"timestamp": 1678898294714, "leadOff": 1, "ecg": 10832}
+{"timestamp": 1678898294718, "leadOff": 1, "ecg": 10851}
+{"timestamp": 1678898294722, "leadOff": 1, "ecg": 10871}
+{"timestamp": 1678898294726, "leadOff": 1, "ecg": 10892}
+{"timestamp": 1678898294730, "leadOff": 1, "ecg": 10909}
+{"timestamp": 1678898294734, "leadOff": 1, "ecg": 10928}
+{"timestamp": 1678898294738, "leadOff": 1, "ecg": 10949}
+{"timestamp": 1678898294742, "leadOff": 1, "ecg": 10966}
+{"timestamp": 1678898294746, "leadOff": 1, "ecg": 10973}
+{"timestamp": 1678898294750, "leadOff": 1, "ecg": 10971}
+{"timestamp": 1678898294753, "leadOff": 1, "ecg": 10972}
+{"timestamp": 1678898294757, "leadOff": 1, "ecg": 10983}
+{"timestamp": 1678898294761, "leadOff": 1, "ecg": 10999}
+{"timestamp": 1678898294765, "leadOff": 1, "ecg": 11015}
+{"timestamp": 1678898294769, "leadOff": 1, "ecg": 11034}
+{"timestamp": 1678898294773, "leadOff": 1, "ecg": 11052}
+{"timestamp": 1678898294777, "leadOff": 1, "ecg": 11060}
+{"timestamp": 1678898294781, "leadOff": 1, "ecg": 11064}
+{"timestamp": 1678898294785, "leadOff": 1, "ecg": 11070}
+{"timestamp": 1678898294789, "leadOff": 1, "ecg": 11075}
+{"timestamp": 1678898294792, "leadOff": 1, "ecg": 11078}
+{"timestamp": 1678898294796, "leadOff": 1, "ecg": 11092}
+{"timestamp": 1678898294800, "leadOff": 1, "ecg": 11117}
+{"timestamp": 1678898294804, "leadOff": 1, "ecg": 11146}
+{"timestamp": 1678898294808, "leadOff": 1, "ecg": 11175}
+{"timestamp": 1678898294812, "leadOff": 1, "ecg": 11205}
+{"timestamp": 1678898294816, "leadOff": 1, "ecg": 11233}
+{"timestamp": 1678898294820, "leadOff": 1, "ecg": 11254}
+{"timestamp": 1678898294824, "leadOff": 1, "ecg": 11263}
+{"timestamp": 1678898294828, "leadOff": 1, "ecg": 11267}
+{"timestamp": 1678898294832, "leadOff": 1, "ecg": 11277}
+{"timestamp": 1678898294835, "leadOff": 1, "ecg": 11287}
+{"timestamp": 1678898294839, "leadOff": 1, "ecg": 11291}
+{"timestamp": 1678898294843, "leadOff": 1, "ecg": 11298}
+{"timestamp": 1678898294847, "leadOff": 1, "ecg": 11315}
+{"timestamp": 1678898294851, "leadOff": 1, "ecg": 11334}
+{"timestamp": 1678898294855, "leadOff": 1, "ecg": 11347}
+{"timestamp": 1678898294859, "leadOff": 1, "ecg": 11357}
+{"timestamp": 1678898294863, "leadOff": 1, "ecg": 11368}
+{"timestamp": 1678898294867, "leadOff": 1, "ecg": 11382}
+{"timestamp": 1678898294871, "leadOff": 1, "ecg": 11403}
+{"timestamp": 1678898294875, "leadOff": 1, "ecg": 11424}
+{"timestamp": 1678898294878, "leadOff": 1, "ecg": 11437}
+{"timestamp": 1678898294882, "leadOff": 1, "ecg": 11447}
+{"timestamp": 1678898294886, "leadOff": 1, "ecg": 11466}
+{"timestamp": 1678898294890, "leadOff": 1, "ecg": 11490}
+{"timestamp": 1678898294894, "leadOff": 1, "ecg": 11511}
+{"timestamp": 1678898294898, "leadOff": 1, "ecg": 11529}
+{"timestamp": 1678898294902, "leadOff": 1, "ecg": 11544}
+{"timestamp": 1678898294906, "leadOff": 1, "ecg": 11553}
+{"timestamp": 1678898294910, "leadOff": 1, "ecg": 11560}
+{"timestamp": 1678898294914, "leadOff": 1, "ecg": 11569}
+{"timestamp": 1678898294917, "leadOff": 1, "ecg": 11581}
+{"timestamp": 1678898294921, "leadOff": 1, "ecg": 11595}
+{"timestamp": 1678898294925, "leadOff": 1, "ecg": 11609}
+{"timestamp": 1678898294929, "leadOff": 1, "ecg": 11622}
+{"timestamp": 1678898294933, "leadOff": 1, "ecg": 11639}
+{"timestamp": 1678898294937, "leadOff": 1, "ecg": 11664}
+{"timestamp": 1678898294941, "leadOff": 1, "ecg": 11696}
+{"timestamp": 1678898294945, "leadOff": 1, "ecg": 11726}
+{"timestamp": 1678898294949, "leadOff": 1, "ecg": 11744}
+{"timestamp": 1678898294953, "leadOff": 1, "ecg": 11747}
+{"timestamp": 1678898294957, "leadOff": 1, "ecg": 11748}
+{"timestamp": 1678898294960, "leadOff": 1, "ecg": 11763}
+{"timestamp": 1678898294964, "leadOff": 1, "ecg": 11791}
+{"timestamp": 1678898294968, "leadOff": 1, "ecg": 11813}
+{"timestamp": 1678898294972, "leadOff": 1, "ecg": 11831}
+{"timestamp": 1678898294976, "leadOff": 1, "ecg": 11850}
+{"timestamp": 1678898294980, "leadOff": 1, "ecg": 11861}
+{"timestamp": 1678898294984, "leadOff": 1, "ecg": 11861}
+{"timestamp": 1678898294988, "leadOff": 1, "ecg": 11862}
+{"timestamp": 1678898294992, "leadOff": 1, "ecg": 11870}
+{"timestamp": 1678898294996, "leadOff": 1, "ecg": 11884}
+{"timestamp": 1678898295000, "leadOff": 1, "ecg": 11899}
+{"timestamp": 1678898294031, "bi": -10310}
+{"timestamp": 1678898294093, "bi": -12089}
+{"timestamp": 1678898294156, "bi": -13873}
+{"timestamp": 1678898294218, "bi": -15672}
+{"timestamp": 1678898294281, "bi": -17489}
+{"timestamp": 1678898294343, "bi": -19322}
+{"timestamp": 1678898294406, "bi": -21165}
+{"timestamp": 1678898294468, "bi": -23015}
+{"timestamp": 1678898294531, "bi": -24880}
+{"timestamp": 1678898294593, "bi": -26750}
+{"timestamp": 1678898294656, "bi": -28633}
+{"timestamp": 1678898294718, "bi": -30524}
+{"timestamp": 1678898294781, "bi": -32430}
+{"timestamp": 1678898294843, "bi": 31187}
+{"timestamp": 1678898294906, "bi": 29259}
+{"timestamp": 1678898294968, "bi": 27319}
+{"timestamp": 1678898294031, "x": -4109, "y": 3652, "z": 27858}
+{"timestamp": 1678898294093, "x": 376, "y": -2983, "z": 6355}
+{"timestamp": 1678898294156, "x": 70, "y": -208, "z": 2521}
+{"timestamp": 1678898294218, "x": 1165, "y": 1402, "z": 379}
+{"timestamp": 1678898294281, "x": 3906, "y": 1168, "z": -11302}
+{"timestamp": 1678898294343, "x": 4945, "y": 1189, "z": -14173}
+{"timestamp": 1678898294406, "x": 500, "y": 1437, "z": -1351}
+{"timestamp": 1678898294468, "x": 1376, "y": 1934, "z": -1966}
+{"timestamp": 1678898294531, "x": 4711, "y": 393, "z": 3113}
+{"timestamp": 1678898294593, "x": -4383, "y": -2098, "z": 21954}
+{"timestamp": 1678898294656, "x": 492, "y": -2616, "z": 3421}
+{"timestamp": 1678898294718, "x": 136, "y": -1303, "z": 1611}
+{"timestamp": 1678898294781, "x": 1337, "y": -543, "z": -633}
+{"timestamp": 1678898294843, "x": 2843, "y": -1117, "z": -4225}
+{"timestamp": 1678898294906, "x": 4009, "y": -1325, "z": -8652}
+{"timestamp": 1678898294968, "x": 2444, "y": 2281, "z": -3775}
+{"timestamp": 1678898295031, "x": 997, "y": 3465, "z": -2626}
+{"timestamp": 1678898295093, "x": 1771, "y": 3458, "z": 482}
+{"timestamp": 1678898295156, "x": -818, "y": -1032, "z": 16525}
+{"timestamp": 1678898295218, "x": -1568, "y": -68, "z": 6188}
+{"timestamp": 1678898295281, "x": -107, "y": -184, "z": 2294}
+{"timestamp": 1678898295343, "x": 1446, "y": 1428, "z": -2227}
+{"timestamp": 1678898295406, "x": 1012, "y": 2867, "z": -8118}
+{"timestamp": 1678898295468, "x": -65, "y": 2046, "z": -3498}
+{"timestamp": 1678898295531, "x": -1123, "y": 149, "z": 775}
+{"timestamp": 1678898295593, "x": -1747, "y": -640, "z": 5143}
+{"timestamp": 1678898295656, "x": -3026, "y": 1387, "z": 3867}
+{"timestamp": 1678898295718, "x": -1522, "y": 594, "z": 1237}
+{"timestamp": 1678898295781, "x": -1561, "y": 688, "z": 17}
+{"timestamp": 1678898295843, "x": -1772, "y": 1347, "z": 58}
+{"timestamp": 1678898295906, "x": -1591, "y": 1235, "z": -870}
+{"timestamp": 1678898295968, "x": -1809, "y": 1796, "z": -990}
+{"timestamp": 1678898295003, "leadOff": 1, "ecg": 11919}
+{"timestamp": 1678898295007, "leadOff": 1, "ecg": 11939}
+{"timestamp": 1678898295011, "leadOff": 1, "ecg": 11960}
+{"timestamp": 1678898295015, "leadOff": 1, "ecg": 11983}
+{"timestamp": 1678898295019, "leadOff": 1, "ecg": 12008}
+{"timestamp": 1678898295023, "leadOff": 1, "ecg": 12028}
+{"timestamp": 1678898295027, "leadOff": 1, "ecg": 12042}
+{"timestamp": 1678898295031, "leadOff": 1, "ecg": 12055}
+{"timestamp": 1678898295035, "leadOff": 1, "ecg": 12066}
+{"timestamp": 1678898295039, "leadOff": 1, "ecg": 12074}
+{"timestamp": 1678898295042, "leadOff": 1, "ecg": 12089}
+{"timestamp": 1678898295046, "leadOff": 1, "ecg": 12114}
+{"timestamp": 1678898295050, "leadOff": 1, "ecg": 12134}
+{"timestamp": 1678898295054, "leadOff": 1, "ecg": 12143}
+{"timestamp": 1678898295058, "leadOff": 1, "ecg": 12152}
+{"timestamp": 1678898295062, "leadOff": 1, "ecg": 12167}
+{"timestamp": 1678898295066, "leadOff": 1, "ecg": 12182}
+{"timestamp": 1678898295070, "leadOff": 1, "ecg": 12200}
+{"timestamp": 1678898295074, "leadOff": 1, "ecg": 12222}
+{"timestamp": 1678898295078, "leadOff": 1, "ecg": 12246}
+{"timestamp": 1678898295082, "leadOff": 1, "ecg": 12268}
+{"timestamp": 1678898295085, "leadOff": 1, "ecg": 12287}
+{"timestamp": 1678898295089, "leadOff": 1, "ecg": 12296}
+{"timestamp": 1678898295093, "leadOff": 1, "ecg": 12303}
+{"timestamp": 1678898295097, "leadOff": 1, "ecg": 12315}
+{"timestamp": 1678898295101, "leadOff": 1, "ecg": 12329}
+{"timestamp": 1678898295105, "leadOff": 1, "ecg": 12347}
+{"timestamp": 1678898295109, "leadOff": 1, "ecg": 12369}
+{"timestamp": 1678898295113, "leadOff": 1, "ecg": 12386}
+{"timestamp": 1678898295117, "leadOff": 1, "ecg": 12396}
+{"timestamp": 1678898295121, "leadOff": 1, "ecg": 12408}
+{"timestamp": 1678898295125, "leadOff": 1, "ecg": 12426}
+{"timestamp": 1678898295128, "leadOff": 1, "ecg": 12446}
+{"timestamp": 1678898295132, "leadOff": 1, "ecg": 12465}
+{"timestamp": 1678898295136, "leadOff": 1, "ecg": 12482}
+{"timestamp": 1678898295140, "leadOff": 1, "ecg": 12503}
+{"timestamp": 1678898295144, "leadOff": 1, "ecg": 12525}
+{"timestamp": 1678898295148, "leadOff": 1, "ecg": 12538}
+{"timestamp": 1678898295152, "leadOff": 1, "ecg": 12546}
+{"timestamp": 1678898295156, "leadOff": 1, "ecg": 12560}
+{"timestamp": 1678898295160, "leadOff": 1, "ecg": 12576}
+{"timestamp": 1678898295164, "leadOff": 1, "ecg": 12588}
+{"timestamp": 1678898295167, "leadOff": 1, "ecg": 12602}
+{"timestamp": 1678898295171, "leadOff": 1, "ecg": 12621}
+{"timestamp": 1678898295175, "leadOff": 1, "ecg": 12641}
+{"timestamp": 1678898295179, "leadOff": 1, "ecg": 12657}
+{"timestamp": 1678898295183, "leadOff": 1, "ecg": 12672}
+{"timestamp": 1678898295187, "leadOff": 1, "ecg": 12692}
+{"timestamp": 1678898295191, "leadOff": 1, "ecg": 12718}
+{"timestamp": 1678898295195, "leadOff": 1, "ecg": 12742}
+{"timestamp": 1678898295199, "leadOff": 1, "ecg": 12763}
+{"timestamp": 1678898295203, "leadOff": 1, "ecg": 12785}
+{"timestamp": 1678898295207, "leadOff": 1, "ecg": 12797}
+{"timestamp": 1678898295210, "leadOff": 1, "ecg": 12797}
+{"timestamp": 1678898295214, "leadOff": 1, "ecg": 12804}
+{"timestamp": 1678898295218, "leadOff": 1, "ecg": 12828}
+{"timestamp": 1678898295222, "leadOff": 1, "ecg": 12856}
+{"timestamp": 1678898295226, "leadOff": 1, "ecg": 12876}
+{"timestamp": 1678898295230, "leadOff": 1, "ecg": 12890}
+{"timestamp": 1678898295234, "leadOff": 1, "ecg": 12903}
+{"timestamp": 1678898295238, "leadOff": 1, "ecg": 12917}
+{"timestamp": 1678898295242, "leadOff": 1, "ecg": 12934}
+{"timestamp": 1678898295246, "leadOff": 1, "ecg": 12949}
+{"timestamp": 1678898295250, "leadOff": 1, "ecg": 12954}
+{"timestamp": 1678898295253, "leadOff": 1, "ecg": 12960}
+{"timestamp": 1678898295257, "leadOff": 1, "ecg": 12974}
+{"timestamp": 1678898295261, "leadOff": 1, "ecg": 12990}
+{"timestamp": 1678898295265, "leadOff": 1, "ecg": 13006}
+{"timestamp": 1678898295269, "leadOff": 1, "ecg": 13017}
+{"timestamp": 1678898295273, "leadOff": 1, "ecg": 13026}
+{"timestamp": 1678898295277, "leadOff": 1, "ecg": 13035}
+{"timestamp": 1678898295281, "leadOff": 1, "ecg": 13051}
+{"timestamp": 1678898295285, "leadOff": 1, "ecg": 13076}
+{"timestamp": 1678898295289, "leadOff": 1, "ecg": 13103}
+{"timestamp": 1678898295292, "leadOff": 1, "ecg": 13125}
+{"timestamp": 1678898295296, "leadOff": 1, "ecg": 13138}
+{"timestamp": 1678898295300, "leadOff": 1, "ecg": 13151}
+{"timestamp": 1678898295304, "leadOff": 1, "ecg": 13170}
+{"timestamp": 1678898295308, "leadOff": 1, "ecg": 13190}
+{"timestamp": 1678898295312, "leadOff": 1, "ecg": 13208}
+{"timestamp": 1678898295316, "leadOff": 1, "ecg": 13221}
+{"timestamp": 1678898295320, "leadOff": 1, "ecg": 13228}
+{"timestamp": 1678898295324, "leadOff": 1, "ecg": 13235}
+{"timestamp": 1678898295328, "leadOff": 1, "ecg": 13250}
+{"timestamp": 1678898295332, "leadOff": 1, "ecg": 13268}
+{"timestamp": 1678898295335, "leadOff": 1, "ecg": 13286}
+{"timestamp": 1678898295339, "leadOff": 1, "ecg": 13303}
+{"timestamp": 1678898295343, "leadOff": 1, "ecg": 13322}
+{"timestamp": 1678898295347, "leadOff": 1, "ecg": 13343}
+{"timestamp": 1678898295351, "leadOff": 1, "ecg": 13363}
+{"timestamp": 1678898295355, "leadOff": 1, "ecg": 13379}
+{"timestamp": 1678898295359, "leadOff": 1, "ecg": 13389}
+{"timestamp": 1678898295363, "leadOff": 1, "ecg": 13403}
+{"timestamp": 1678898295367, "leadOff": 1, "ecg": 13422}
+{"timestamp": 1678898295371, "leadOff": 1, "ecg": 13442}
+{"timestamp": 1678898295375, "leadOff": 1, "ecg": 13462}
+{"timestamp": 1678898295378, "leadOff": 1, "ecg": 13477}
+{"timestamp": 1678898295382, "leadOff": 1, "ecg": 13487}
+{"timestamp": 1678898295386, "leadOff": 1, "ecg": 13502}
+{"timestamp": 1678898295390, "leadOff": 1, "ecg": 13526}
+{"timestamp": 1678898295394, "leadOff": 1, "ecg": 13545}
+{"timestamp": 1678898295398, "leadOff": 1, "ecg": 13547}
+{"timestamp": 1678898295402, "leadOff": 1, "ecg": 13544}
+{"timestamp": 1678898295406, "leadOff": 1, "ecg": 13549}
+{"timestamp": 1678898295410, "leadOff": 1, "ecg": 13564}
+{"timestamp": 1678898295414, "leadOff": 1, "ecg": 13588}
+{"timestamp": 1678898295417, "leadOff": 1, "ecg": 13615}
+{"timestamp": 1678898295421, "leadOff": 1, "ecg": 13635}
+{"timestamp": 1678898295425, "leadOff": 1, "ecg": 13648}
+{"timestamp": 1678898295429, "leadOff": 1, "ecg": 13660}
+{"timestamp": 1678898295433, "leadOff": 1, "ecg": 13680}
+{"timestamp": 1678898295437, "leadOff": 1, "ecg": 13709}
+{"timestamp": 1678898295441, "leadOff": 1, "ecg": 13734}
+{"timestamp": 1678898295445, "leadOff": 1, "ecg": 13748}
+{"timestamp": 1678898295449, "leadOff": 1, "ecg": 13762}
+{"timestamp": 1678898295453, "leadOff": 1, "ecg": 13782}
+{"timestamp": 1678898295457, "leadOff": 1, "ecg": 13800}
+{"timestamp": 1678898295460, "leadOff": 1, "ecg": 13816}
+{"timestamp": 1678898295464, "leadOff": 1, "ecg": 13836}
+{"timestamp": 1678898295468, "leadOff": 1, "ecg": 13857}
+{"timestamp": 1678898295472, "leadOff": 1, "ecg": 13869}
+{"timestamp": 1678898295476, "leadOff": 1, "ecg": 13873}
+{"timestamp": 1678898295480, "leadOff": 1, "ecg": 13882}
+{"timestamp": 1678898295484, "leadOff": 1, "ecg": 13899}
+{"timestamp": 1678898295488, "leadOff": 1, "ecg": 13916}
+{"timestamp": 1678898295492, "leadOff": 1, "ecg": 13933}
+{"timestamp": 1678898295496, "leadOff": 1, "ecg": 13958}
+{"timestamp": 1678898295500, "leadOff": 1, "ecg": 13990}
+{"timestamp": 1678898295503, "leadOff": 1, "ecg": 14019}
+{"timestamp": 1678898295507, "leadOff": 1, "ecg": 14037}
+{"timestamp": 1678898295511, "leadOff": 1, "ecg": 14053}
+{"timestamp": 1678898295515, "leadOff": 1, "ecg": 14074}
+{"timestamp": 1678898295519, "leadOff": 1, "ecg": 14097}
+{"timestamp": 1678898295523, "leadOff": 1, "ecg": 14119}
+{"timestamp": 1678898295527, "leadOff": 1, "ecg": 14141}
+{"timestamp": 1678898295531, "leadOff": 1, "ecg": 14160}
+{"timestamp": 1678898295535, "leadOff": 1, "ecg": 14168}
+{"timestamp": 1678898295539, "leadOff": 1, "ecg": 14169}
+{"timestamp": 1678898295542, "leadOff": 1, "ecg": 14171}
+{"timestamp": 1678898295546, "leadOff": 1, "ecg": 14186}
+{"timestamp": 1678898295550, "leadOff": 1, "ecg": 14207}
+{"timestamp": 1678898295554, "leadOff": 1, "ecg": 14227}
+{"timestamp": 1678898295558, "leadOff": 1, "ecg": 14241}
+{"timestamp": 1678898295562, "leadOff": 1, "ecg": 14251}
+{"timestamp": 1678898295566, "leadOff": 1, "ecg": 14267}
+{"timestamp": 1678898295570, "leadOff": 1, "ecg": 14294}
+{"timestamp": 1678898295574, "leadOff": 1, "ecg": 14322}
+{"timestamp": 1678898295578, "leadOff": 1, "ecg": 14339}
+{"timestamp": 1678898295582, "leadOff": 1, "ecg": 14346}
+{"timestamp": 1678898295585, "leadOff": 1, "ecg": 14356}
+{"timestamp": 1678898295589, "leadOff": 1, "ecg": 14369}
+{"timestamp": 1678898295593, "leadOff": 1, "ecg": 14388}
+{"timestamp": 1678898295597, "leadOff": 1, "ecg": 14414}
+{"timestamp": 1678898295601, "leadOff": 1, "ecg": 14439}
+{"timestamp": 1678898295605, "leadOff": 1, "ecg": 14455}
+{"timestamp": 1678898295609, "leadOff": 1, "ecg": 14464}
+{"timestamp": 1678898295613, "leadOff": 1, "ecg": 14474}
+{"timestamp": 1678898295617, "leadOff": 1, "ecg": 14490}
+{"timestamp": 1678898295621, "leadOff": 1, "ecg": 14510}
+{"timestamp": 1678898295625, "leadOff": 1, "ecg": 14526}
+{"timestamp": 1678898295628, "leadOff": 1, "ecg": 14536}
+{"timestamp": 1678898295632, "leadOff": 1, "ecg": 14547}
+{"timestamp": 1678898295636, "leadOff": 1, "ecg": 14563}
+{"timestamp": 1678898295640, "leadOff": 1, "ecg": 14581}
+{"timestamp": 1678898295644, "leadOff": 1, "ecg": 14600}
+{"timestamp": 1678898295648, "leadOff": 1, "ecg": 14619}
+{"timestamp": 1678898295652, "leadOff": 1, "ecg": 14638}
+{"timestamp": 1678898295656, "leadOff": 1, "ecg": 14653}
+{"timestamp": 1678898295660, "leadOff": 1, "ecg": 14668}
+{"timestamp": 1678898295664, "leadOff": 1, "ecg": 14688}
+{"timestamp": 1678898295667, "leadOff": 1, "ecg": 14709}
+{"timestamp": 1678898295671, "leadOff": 1, "ecg": 14731}
+{"timestamp": 1678898295675, "leadOff": 1, "ecg": 14751}
+{"timestamp": 1678898295679, "leadOff": 1, "ecg": 14769}
+{"timestamp": 1678898295683, "leadOff": 1, "ecg": 14787}
+{"timestamp": 1678898295687, "leadOff": 1, "ecg": 14800}
+{"timestamp": 1678898295691, "leadOff": 1, "ecg": 14810}
+{"timestamp": 1678898295695, "leadOff": 1, "ecg": 14825}
+{"timestamp": 1678898295699, "leadOff": 1, "ecg": 14843}
+{"timestamp": 1678898295703, "leadOff": 1, "ecg": 14854}
+{"timestamp": 1678898295707, "leadOff": 1, "ecg": 14860}
+{"timestamp": 1678898295710, "leadOff": 1, "ecg": 14878}
+{"timestamp": 1678898295714, "leadOff": 1, "ecg": 14904}
+{"timestamp": 1678898295718, "leadOff": 1, "ecg": 14924}
+{"timestamp": 1678898295722, "leadOff": 1, "ecg": 14939}
+{"timestamp": 1678898295726, "leadOff": 1, "ecg": 14952}
+{"timestamp": 1678898295730, "leadOff": 1, "ecg": 14965}
+{"timestamp": 1678898295734, "leadOff": 1, "ecg": 14978}
+{"timestamp": 1678898295738, "leadOff": 1, "ecg": 14991}
+{"timestamp": 1678898295742, "leadOff": 1, "ecg": 15009}
+{"timestamp": 1678898295746, "leadOff": 1, "ecg": 15034}
+{"timestamp": 1678898295750, "leadOff": 1, "ecg": 15060}
+{"timestamp": 1678898295753, "leadOff": 1, "ecg": 15084}
+{"timestamp": 1678898295757, "leadOff": 1, "ecg": 15103}
+{"timestamp": 1678898295761, "leadOff": 1, "ecg": 15117}
+{"timestamp": 1678898295765, "leadOff": 1, "ecg": 15131}
+{"timestamp": 1678898295769, "leadOff": 1, "ecg": 15150}
+{"timestamp": 1678898295773, "leadOff": 1, "ecg": 15170}
+{"timestamp": 1678898295777, "leadOff": 1, "ecg": 15187}
+{"timestamp": 1678898295781, "leadOff": 1, "ecg": 15196}
+{"timestamp": 1678898295785, "leadOff": 1, "ecg": 15202}
+{"timestamp": 1678898295789, "leadOff": 1, "ecg": 15216}
+{"timestamp": 1678898295792, "leadOff": 1, "ecg": 15237}
+{"timestamp": 1678898295796, "leadOff": 1, "ecg": 15260}
+{"timestamp": 1678898295800, "leadOff": 1, "ecg": 15278}
+{"timestamp": 1678898295804, "leadOff": 1, "ecg": 15294}
+{"timestamp": 1678898295808, "leadOff": 1, "ecg": 15311}
+{"timestamp": 1678898295812, "leadOff": 1, "ecg": 15327}
+{"timestamp": 1678898295816, "leadOff": 1, "ecg": 15337}
+{"timestamp": 1678898295820, "leadOff": 1, "ecg": 15350}
+{"timestamp": 1678898295824, "leadOff": 1, "ecg": 15366}
+{"timestamp": 1678898295828, "leadOff": 1, "ecg": 15380}
+{"timestamp": 1678898295832, "leadOff": 1, "ecg": 15392}
+{"timestamp": 1678898295835, "leadOff": 1, "ecg": 15406}
+{"timestamp": 1678898295839, "leadOff": 1, "ecg": 15424}
+{"timestamp": 1678898295843, "leadOff": 1, "ecg": 15446}
+{"timestamp": 1678898295847, "leadOff": 1, "ecg": 15469}
+{"timestamp": 1678898295851, "leadOff": 1, "ecg": 15491}
+{"timestamp": 1678898295855, "leadOff": 1, "ecg": 15512}
+{"timestamp": 1678898295859, "leadOff": 1, "ecg": 15535}
+{"timestamp": 1678898295863, "leadOff": 1, "ecg": 15562}
+{"timestamp": 1678898295867, "leadOff": 1, "ecg": 15583}
+{"timestamp": 1678898295871, "leadOff": 1, "ecg": 15595}
+{"timestamp": 1678898295875, "leadOff": 1, "ecg": 15602}
+{"timestamp": 1678898295878, "leadOff": 1, "ecg": 15610}
+{"timestamp": 1678898295882, "leadOff": 1, "ecg": 15622}
+{"timestamp": 1678898295886, "leadOff": 1, "ecg": 15640}
+{"timestamp": 1678898295890, "leadOff": 1, "ecg": 15667}
+{"timestamp": 1678898295894, "leadOff": 1, "ecg": 15695}
+{"timestamp": 1678898295898, "leadOff": 1, "ecg": 15715}
+{"timestamp": 1678898295902, "leadOff": 1, "ecg": 15728}
+{"timestamp": 1678898295906, "leadOff": 1, "ecg": 15741}
+{"timestamp": 1678898295910, "leadOff": 1, "ecg": 15752}
+{"timestamp": 1678898295914, "leadOff": 1, "ecg": 15766}
+{"timestamp": 1678898295917, "leadOff": 1, "ecg": 15785}
+{"timestamp": 1678898295921, "leadOff": 1, "ecg": 15808}
+{"timestamp": 1678898295925, "leadOff": 1, "ecg": 15828}
+{"timestamp": 1678898295929, "leadOff": 1, "ecg": 15842}
+{"timestamp": 1678898295933, "leadOff": 1, "ecg": 15847}
+{"timestamp": 1678898295937, "leadOff": 1, "ecg": 15844}
+{"timestamp": 1678898295941, "leadOff": 1, "ecg": 15844}
+{"timestamp": 1678898295945, "leadOff": 1, "ecg": 15854}
+{"timestamp": 1678898295949, "leadOff": 1, "ecg": 15871}
+{"timestamp": 1678898295953, "leadOff": 1, "ecg": 15896}
+{"timestamp": 1678898295957, "leadOff": 1, "ecg": 15923}
+{"timestamp": 1678898295960, "leadOff": 1, "ecg": 15942}
+{"timestamp": 1678898295964, "leadOff": 1, "ecg": 15955}
+{"timestamp": 1678898295968, "leadOff": 1, "ecg": 15972}
+{"timestamp": 1678898295972, "leadOff": 1, "ecg": 15993}
+{"timestamp": 1678898295976, "leadOff": 1, "ecg": 16013}
+{"timestamp": 1678898295980, "leadOff": 1, "ecg": 16035}
+{"timestamp": 1678898295984, "leadOff": 1, "ecg": 16060}
+{"timestamp": 1678898295988, "leadOff": 1, "ecg": 16083}
+{"timestamp": 1678898295992, "leadOff": 1, "ecg": 16101}
+{"timestamp": 1678898295996, "leadOff": 1, "ecg": 16115}
+{"timestamp": 1678898296000, "leadOff": 1, "ecg": 16133}
+{"timestamp": 1678898295031, "bi": 25378}
+{"timestamp": 1678898295093, "bi": 23435}
+{"timestamp": 1678898295156, "bi": 21493}
+{"timestamp": 1678898295218, "bi": 19549}
+{"timestamp": 1678898295281, "bi": 17600}
+{"timestamp": 1678898295343, "bi": 15665}
+{"timestamp": 1678898295406, "bi": 13740}
+{"timestamp": 1678898295468, "bi": 11820}
+{"timestamp": 1678898295531, "bi": 9905}
+{"timestamp": 1678898295593, "bi": 7982}
+{"timestamp": 1678898295656, "bi": 6061}
+{"timestamp": 1678898295718, "bi": 4141}
+{"timestamp": 1678898295781, "bi": 2217}
+{"timestamp": 1678898295843, "bi": 303}
+{"timestamp": 1678898295906, "bi": -1607}
+{"timestamp": 1678898295968, "bi": -3506}
+{"timestamp": 1678898295031, "x": -1302, "y": 1219, "z": -256}
+{"timestamp": 1678898295093, "x": -625, "y": -2583, "z": 4223}
+{"timestamp": 1678898295156, "x": -2716, "y": -1961, "z": 7401}
+{"timestamp": 1678898295218, "x": -1872, "y": -1434, "z": 4068}
+{"timestamp": 1678898295281, "x": -773, "y": -87, "z": 1441}
+{"timestamp": 1678898295343, "x": -1218, "y": 2785, "z": -163}
+{"timestamp": 1678898295406, "x": -1005, "y": 2812, "z": -2244}
+{"timestamp": 1678898295468, "x": -258, "y": 1892, "z": -4736}
+{"timestamp": 1678898295531, "x": -222, "y": 1748, "z": -2703}
+{"timestamp": 1678898295593, "x": -507, "y": 2119, "z": 952}
+{"timestamp": 1678898295656, "x": 532, "y": -2061, "z": 5388}
+{"timestamp": 1678898295718, "x": -2300, "y": -2905, "z": 6459}
+{"timestamp": 1678898295781, "x": -1765, "y": -834, "z": 3746}
+{"timestamp": 1678898295843, "x": -1240, "y": -601, "z": 1448}
+{"timestamp": 1678898295906, "x": -1768, "y": -16, "z": 711}
+{"timestamp": 1678898295968, "x": -1997, "y": 309, "z": -250}
+{"timestamp": 1678898296031, "x": -1898, "y": -5, "z": 503}
+{"timestamp": 1678898296093, "x": -2409, "y": 612, "z": -76}
+{"timestamp": 1678898296156, "x": -2134, "y": 322, "z": -307}
+{"timestamp": 1678898296218, "x": -1611, "y": -412, "z": -449}
+{"timestamp": 1678898296281, "x": -1255, "y": -485, "z": -650}
+{"timestamp": 1678898296343, "x": -1746, "y": -347, "z": -1491}
+{"timestamp": 1678898296406, "x": -1959, "y": 33, "z": -1299}
+{"timestamp": 1678898296468, "x": -824, "y": -869, "z": -1017}
+{"timestamp": 1678898296531, "x": -905, "y": 46, "z": -1682}
+{"timestamp": 1678898296593, "x": -1693, "y": -490, "z": 188}
+{"timestamp": 1678898296656, "x": -1469, "y": -354, "z": 238}
+{"timestamp": 1678898296718, "x": -1971, "y": -152, "z": -599}
+{"timestamp": 1678898296781, "x": -1906, "y": -1286, "z": 387}
+{"timestamp": 1678898296843, "x": -1880, "y": -1622, "z": 181}
+{"timestamp": 1678898296906, "x": -1156, "y": -1481, "z": -246}
+{"timestamp": 1678898296968, "x": -907, "y": -1709, "z": -1}
+{"timestamp": 1678898296003, "leadOff": 1, "ecg": 16151}
+{"timestamp": 1678898296007, "leadOff": 1, "ecg": 16165}
+{"timestamp": 1678898296011, "leadOff": 1, "ecg": 16180}
+{"timestamp": 1678898296015, "leadOff": 1, "ecg": 16194}
+{"timestamp": 1678898296019, "leadOff": 1, "ecg": 16210}
+{"timestamp": 1678898296023, "leadOff": 1, "ecg": 16232}
+{"timestamp": 1678898296027, "leadOff": 1, "ecg": 16251}
+{"timestamp": 1678898296031, "leadOff": 1, "ecg": 16272}
+{"timestamp": 1678898296035, "leadOff": 1, "ecg": 16292}
+{"timestamp": 1678898296039, "leadOff": 1, "ecg": 16307}
+{"timestamp": 1678898296042, "leadOff": 1, "ecg": 16318}
+{"timestamp": 1678898296046, "leadOff": 1, "ecg": 16326}
+{"timestamp": 1678898296050, "leadOff": 1, "ecg": 16334}
+{"timestamp": 1678898296054, "leadOff": 1, "ecg": 16343}
+{"timestamp": 1678898296058, "leadOff": 1, "ecg": 16359}
+{"timestamp": 1678898296062, "leadOff": 1, "ecg": 16376}
+{"timestamp": 1678898296066, "leadOff": 1, "ecg": 16395}
+{"timestamp": 1678898296070, "leadOff": 1, "ecg": 16416}
+{"timestamp": 1678898296074, "leadOff": 1, "ecg": 16438}
+{"timestamp": 1678898296078, "leadOff": 1, "ecg": 16459}
+{"timestamp": 1678898296082, "leadOff": 1, "ecg": 16480}
+{"timestamp": 1678898296085, "leadOff": 1, "ecg": 16502}
+{"timestamp": 1678898296089, "leadOff": 1, "ecg": 16528}
+{"timestamp": 1678898296093, "leadOff": 1, "ecg": 16553}
+{"timestamp": 1678898296097, "leadOff": 1, "ecg": 16581}
+{"timestamp": 1678898296101, "leadOff": 1, "ecg": 16609}
+{"timestamp": 1678898296105, "leadOff": 1, "ecg": 16630}
+{"timestamp": 1678898296109, "leadOff": 1, "ecg": 16642}
+{"timestamp": 1678898296113, "leadOff": 1, "ecg": 16654}
+{"timestamp": 1678898296117, "leadOff": 1, "ecg": 16669}
+{"timestamp": 1678898296121, "leadOff": 1, "ecg": 16681}
+{"timestamp": 1678898296125, "leadOff": 1, "ecg": 16693}
+{"timestamp": 1678898296128, "leadOff": 1, "ecg": 16706}
+{"timestamp": 1678898296132, "leadOff": 1, "ecg": 16720}
+{"timestamp": 1678898296136, "leadOff": 1, "ecg": 16736}
+{"timestamp": 1678898296140, "leadOff": 1, "ecg": 16752}
+{"timestamp": 1678898296144, "leadOff": 1, "ecg": 16766}
+{"timestamp": 1678898296148, "leadOff": 1, "ecg": 16774}
+{"timestamp": 1678898296152, "leadOff": 1, "ecg": 16783}
+{"timestamp": 1678898296156, "leadOff": 1, "ecg": 16800}
+{"timestamp": 1678898296160, "leadOff": 1, "ecg": 16819}
+{"timestamp": 1678898296164, "leadOff": 1, "ecg": 16836}
+{"timestamp": 1678898296167, "leadOff": 1, "ecg": 16850}
+{"timestamp": 1678898296171, "leadOff": 1, "ecg": 16862}
+{"timestamp": 1678898296175, "leadOff": 1, "ecg": 16879}
+{"timestamp": 1678898296179, "leadOff": 1, "ecg": 16902}
+{"timestamp": 1678898296183, "leadOff": 1, "ecg": 16930}
+{"timestamp": 1678898296187, "leadOff": 1, "ecg": 16962}
+{"timestamp": 1678898296191, "leadOff": 1, "ecg": 16988}
+{"timestamp": 1678898296195, "leadOff": 1, "ecg": 17003}
+{"timestamp": 1678898296199, "leadOff": 1, "ecg": 17015}
+{"timestamp": 1678898296203, "leadOff": 1, "ecg": 17027}
+{"timestamp": 1678898296207, "leadOff": 1, "ecg": 17040}
+{"timestamp": 1678898296210, "leadOff": 1, "ecg": 17058}
+{"timestamp": 1678898296214, "leadOff": 1, "ecg": 17080}
+{"timestamp": 1678898296218, "leadOff": 1, "ecg": 17101}
+{"timestamp": 1678898296222, "leadOff": 1, "ecg": 17119}
+{"timestamp": 1678898296226, "leadOff": 1, "ecg": 17139}
+{"timestamp": 1678898296230, "leadOff": 1, "ecg": 17159}
+{"timestamp": 1678898296234, "leadOff": 1, "ecg": 17172}
+{"timestamp": 1678898296238, "leadOff": 1, "ecg": 17181}
+{"timestamp": 1678898296242, "leadOff": 1, "ecg": 17189}
+{"timestamp": 1678898296246, "leadOff": 1, "ecg": 17195}
+{"timestamp": 1678898296250, "leadOff": 1, "ecg": 17199}
+{"timestamp": 1678898296253, "leadOff": 1, "ecg": 17210}
+{"timestamp": 1678898296257, "leadOff": 1, "ecg": 17233}
+{"timestamp": 1678898296261, "leadOff": 1, "ecg": 17258}
+{"timestamp": 1678898296265, "leadOff": 1, "ecg": 17281}
+{"timestamp": 1678898296269, "leadOff": 1, "ecg": 17304}
+{"timestamp": 1678898296273, "leadOff": 1, "ecg": 17324}
+{"timestamp": 1678898296277, "leadOff": 1, "ecg": 17336}
+{"timestamp": 1678898296281, "leadOff": 1, "ecg": 17345}
+{"timestamp": 1678898296285, "leadOff": 1, "ecg": 17354}
+{"timestamp": 1678898296289, "leadOff": 1, "ecg": 17360}
+{"timestamp": 1678898296292, "leadOff": 1, "ecg": 17367}
+{"timestamp": 1678898296296, "leadOff": 1, "ecg": 17379}
+{"timestamp": 1678898296300, "leadOff": 1, "ecg": 17399}
+{"timestamp": 1678898296304, "leadOff": 1, "ecg": 17424}
+{"timestamp": 1678898296308, "leadOff": 1, "ecg": 17448}
+{"timestamp": 1678898296312, "leadOff": 1, "ecg": 17468}
+{"timestamp": 1678898296316, "leadOff": 1, "ecg": 17487}
+{"timestamp": 1678898296320, "leadOff": 1, "ecg": 17501}
+{"timestamp": 1678898296324, "leadOff": 1, "ecg": 17514}
+{"timestamp": 1678898296328, "leadOff": 1, "ecg": 17533}
+{"timestamp": 1678898296332, "leadOff": 1, "ecg": 17559}
+{"timestamp": 1678898296335, "leadOff": 1, "ecg": 17587}
+{"timestamp": 1678898296339, "leadOff": 1, "ecg": 17609}
+{"timestamp": 1678898296343, "leadOff": 1, "ecg": 17622}
+{"timestamp": 1678898296347, "leadOff": 1, "ecg": 17631}
+{"timestamp": 1678898296351, "leadOff": 1, "ecg": 17646}
+{"timestamp": 1678898296355, "leadOff": 1, "ecg": 17669}
+{"timestamp": 1678898296359, "leadOff": 1, "ecg": 17691}
+{"timestamp": 1678898296363, "leadOff": 1, "ecg": 17708}
+{"timestamp": 1678898296367, "leadOff": 1, "ecg": 17726}
+{"timestamp": 1678898296371, "leadOff": 1, "ecg": 17747}
+{"timestamp": 1678898296375, "leadOff": 1, "ecg": 17768}
+{"timestamp": 1678898296378, "leadOff": 1, "ecg": 17786}
+{"timestamp": 1678898296382, "leadOff": 1, "ecg": 17801}
+{"timestamp": 1678898296386, "leadOff": 1, "ecg": 17818}
+{"timestamp": 1678898296390, "leadOff": 1, "ecg": 17835}
+{"timestamp": 1678898296394, "leadOff": 1, "ecg": 17858}
+{"timestamp": 1678898296398, "leadOff": 1, "ecg": 17886}
+{"timestamp": 1678898296402, "leadOff": 1, "ecg": 17906}
+{"timestamp": 1678898296406, "leadOff": 1, "ecg": 17913}
+{"timestamp": 1678898296410, "leadOff": 1, "ecg": 17925}
+{"timestamp": 1678898296414, "leadOff": 1, "ecg": 17946}
+{"timestamp": 1678898296417, "leadOff": 1, "ecg": 17963}
+{"timestamp": 1678898296421, "leadOff": 1, "ecg": 17973}
+{"timestamp": 1678898296425, "leadOff": 1, "ecg": 17983}
+{"timestamp": 1678898296429, "leadOff": 1, "ecg": 18002}
+{"timestamp": 1678898296433, "leadOff": 1, "ecg": 18029}
+{"timestamp": 1678898296437, "leadOff": 1, "ecg": 18064}
+{"timestamp": 1678898296441, "leadOff": 1, "ecg": 18095}
+{"timestamp": 1678898296445, "leadOff": 1, "ecg": 18108}
+{"timestamp": 1678898296449, "leadOff": 1, "ecg": 18113}
+{"timestamp": 1678898296453, "leadOff": 1, "ecg": 18124}
+{"timestamp": 1678898296457, "leadOff": 1, "ecg": 18144}
+{"timestamp": 1678898296460, "leadOff": 1, "ecg": 18170}
+{"timestamp": 1678898296464, "leadOff": 1, "ecg": 18192}
+{"timestamp": 1678898296468, "leadOff": 1, "ecg": 18205}
+{"timestamp": 1678898296472, "leadOff": 1, "ecg": 18214}
+{"timestamp": 1678898296476, "leadOff": 1, "ecg": 18231}
+{"timestamp": 1678898296480, "leadOff": 1, "ecg": 18252}
+{"timestamp": 1678898296484, "leadOff": 1, "ecg": 18273}
+{"timestamp": 1678898296488, "leadOff": 1, "ecg": 18292}
+{"timestamp": 1678898296492, "leadOff": 1, "ecg": 18308}
+{"timestamp": 1678898296496, "leadOff": 1, "ecg": 18323}
+{"timestamp": 1678898296500, "leadOff": 1, "ecg": 18341}
+{"timestamp": 1678898296503, "leadOff": 1, "ecg": 18358}
+{"timestamp": 1678898296507, "leadOff": 1, "ecg": 18373}
+{"timestamp": 1678898296511, "leadOff": 1, "ecg": 18386}
+{"timestamp": 1678898296515, "leadOff": 1, "ecg": 18401}
+{"timestamp": 1678898296519, "leadOff": 1, "ecg": 18412}
+{"timestamp": 1678898296523, "leadOff": 1, "ecg": 18420}
+{"timestamp": 1678898296527, "leadOff": 1, "ecg": 18433}
+{"timestamp": 1678898296531, "leadOff": 1, "ecg": 18452}
+{"timestamp": 1678898296535, "leadOff": 1, "ecg": 18472}
+{"timestamp": 1678898296539, "leadOff": 1, "ecg": 18495}
+{"timestamp": 1678898296542, "leadOff": 1, "ecg": 18522}
+{"timestamp": 1678898296546, "leadOff": 1, "ecg": 18549}
+{"timestamp": 1678898296550, "leadOff": 1, "ecg": 18570}
+{"timestamp": 1678898296554, "leadOff": 1, "ecg": 18586}
+{"timestamp": 1678898296558, "leadOff": 1, "ecg": 18604}
+{"timestamp": 1678898296562, "leadOff": 1, "ecg": 18626}
+{"timestamp": 1678898296566, "leadOff": 1, "ecg": 18643}
+{"timestamp": 1678898296570, "leadOff": 1, "ecg": 18653}
+{"timestamp": 1678898296574, "leadOff": 1, "ecg": 18658}
+{"timestamp": 1678898296578, "leadOff": 1, "ecg": 18669}
+{"timestamp": 1678898296582, "leadOff": 1, "ecg": 18691}
+{"timestamp": 1678898296585, "leadOff": 1, "ecg": 18722}
+{"timestamp": 1678898296589, "leadOff": 1, "ecg": 18753}
+{"timestamp": 1678898296593, "leadOff": 1, "ecg": 18778}
+{"timestamp": 1678898296597, "leadOff": 1, "ecg": 18797}
+{"timestamp": 1678898296601, "leadOff": 1, "ecg": 18818}
+{"timestamp": 1678898296605, "leadOff": 1, "ecg": 18844}
+{"timestamp": 1678898296609, "leadOff": 1, "ecg": 18865}
+{"timestamp": 1678898296613, "leadOff": 1, "ecg": 18875}
+{"timestamp": 1678898296617, "leadOff": 1, "ecg": 18882}
+{"timestamp": 1678898296621, "leadOff": 1, "ecg": 18892}
+{"timestamp": 1678898296625, "leadOff": 1, "ecg": 18902}
+{"timestamp": 1678898296628, "leadOff": 1, "ecg": 18915}
+{"timestamp": 1678898296632, "leadOff": 1, "ecg": 18932}
+{"timestamp": 1678898296636, "leadOff": 1, "ecg": 18953}
+{"timestamp": 1678898296640, "leadOff": 1, "ecg": 18973}
+{"timestamp": 1678898296644, "leadOff": 1, "ecg": 18991}
+{"timestamp": 1678898296648, "leadOff": 1, "ecg": 19017}
+{"timestamp": 1678898296652, "leadOff": 1, "ecg": 19049}
+{"timestamp": 1678898296656, "leadOff": 1, "ecg": 19074}
+{"timestamp": 1678898296660, "leadOff": 1, "ecg": 19089}
+{"timestamp": 1678898296664, "leadOff": 1, "ecg": 19101}
+{"timestamp": 1678898296667, "leadOff": 1, "ecg": 19113}
+{"timestamp": 1678898296671, "leadOff": 1, "ecg": 19126}
+{"timestamp": 1678898296675, "leadOff": 1, "ecg": 19139}
+{"timestamp": 1678898296679, "leadOff": 1, "ecg": 19149}
+{"timestamp": 1678898296683, "leadOff": 1, "ecg": 19157}
+{"timestamp": 1678898296687, "leadOff": 1, "ecg": 19165}
+{"timestamp": 1678898296691, "leadOff": 1, "ecg": 19175}
+{"timestamp": 1678898296695, "leadOff": 1, "ecg": 19189}
+{"timestamp": 1678898296699, "leadOff": 1, "ecg": 19204}
+{"timestamp": 1678898296703, "leadOff": 1, "ecg": 19215}
+{"timestamp": 1678898296707, "leadOff": 1, "ecg": 19227}
+{"timestamp": 1678898296710, "leadOff": 1, "ecg": 19242}
+{"timestamp": 1678898296714, "leadOff": 1, "ecg": 19259}
+{"timestamp": 1678898296718, "leadOff": 1, "ecg": 19278}
+{"timestamp": 1678898296722, "leadOff": 1, "ecg": 19303}
+{"timestamp": 1678898296726, "leadOff": 1, "ecg": 19329}
+{"timestamp": 1678898296730, "leadOff": 1, "ecg": 19346}
+{"timestamp": 1678898296734, "leadOff": 1, "ecg": 19359}
+{"timestamp": 1678898296738, "leadOff": 1, "ecg": 19373}
+{"timestamp": 1678898296742, "leadOff": 1, "ecg": 19389}
+{"timestamp": 1678898296746, "leadOff": 1, "ecg": 19408}
+{"timestamp": 1678898296750, "leadOff": 1, "ecg": 19431}
+{"timestamp": 1678898296753, "leadOff": 1, "ecg": 19449}
+{"timestamp": 1678898296757, "leadOff": 1, "ecg": 19458}
+{"timestamp": 1678898296761, "leadOff": 1, "ecg": 19468}
+{"timestamp": 1678898296765, "leadOff": 1, "ecg": 19487}
+{"timestamp": 1678898296769, "leadOff": 1, "ecg": 19512}
+{"timestamp": 1678898296773, "leadOff": 1, "ecg": 19542}
+{"timestamp": 1678898296777, "leadOff": 1, "ecg": 19573}
+{"timestamp": 1678898296781, "leadOff": 1, "ecg": 19589}
+{"timestamp": 1678898296785, "leadOff": 1, "ecg": 19588}
+{"timestamp": 1678898296789, "leadOff": 1, "ecg": 19590}
+{"timestamp": 1678898296792, "leadOff": 1, "ecg": 19605}
+{"timestamp": 1678898296796, "leadOff": 1, "ecg": 19624}
+{"timestamp": 1678898296800, "leadOff": 1, "ecg": 19643}
+{"timestamp": 1678898296804, "leadOff": 1, "ecg": 19664}
+{"timestamp": 1678898296808, "leadOff": 1, "ecg": 19690}
+{"timestamp": 1678898296812, "leadOff": 1, "ecg": 19718}
+{"timestamp": 1678898296816, "leadOff": 1, "ecg": 19734}
+{"timestamp": 1678898296820, "leadOff": 1, "ecg": 19747}
+{"timestamp": 1678898296824, "leadOff": 1, "ecg": 19768}
+{"timestamp": 1678898296828, "leadOff": 1, "ecg": 19791}
+{"timestamp": 1678898296832, "leadOff": 1, "ecg": 19808}
+{"timestamp": 1678898296835, "leadOff": 1, "ecg": 19822}
+{"timestamp": 1678898296839, "leadOff": 1, "ecg": 19836}
+{"timestamp": 1678898296843, "leadOff": 1, "ecg": 19852}
+{"timestamp": 1678898296847, "leadOff": 1, "ecg": 19872}
+{"timestamp": 1678898296851, "leadOff": 1, "ecg": 19897}
+{"timestamp": 1678898296855, "leadOff": 1, "ecg": 19922}
+{"timestamp": 1678898296859, "leadOff": 1, "ecg": 19941}
+{"timestamp": 1678898296863, "leadOff": 1, "ecg": 19955}
+{"timestamp": 1678898296867, "leadOff": 1, "ecg": 19966}
+{"timestamp": 1678898296871, "leadOff": 1, "ecg": 19981}
+{"timestamp": 1678898296875, "leadOff": 1, "ecg": 19996}
+{"timestamp": 1678898296878, "leadOff": 1, "ecg": 20006}
+{"timestamp": 1678898296882, "leadOff": 1, "ecg": 20018}
+{"timestamp": 1678898296886, "leadOff": 1, "ecg": 20035}
+{"timestamp": 1678898296890, "leadOff": 1, "ecg": 20052}
+{"timestamp": 1678898296894, "leadOff": 1, "ecg": 20061}
+{"timestamp": 1678898296898, "leadOff": 1, "ecg": 20068}
+{"timestamp": 1678898296902, "leadOff": 1, "ecg": 20083}
+{"timestamp": 1678898296906, "leadOff": 1, "ecg": 20105}
