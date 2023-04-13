@@ -6,9 +6,9 @@ with open("input.txt", 'r') as f:
             # {"timestamp": 1678898291835, "leadOff": 1, "ecg": 3920}\n
             l_new = line.strip().strip('{}').split(',')
             # [
-            #       '"leadOff": 1',
-            #       ' "ecg": 3920',
             #       '"timestamp": 1678898291835',
+            #       ' "leadOff": 1',
+            #       ' "ecg": 3920',
             # ]
             found_ts = False
             found_ecg = False
