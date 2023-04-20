@@ -12,6 +12,7 @@ def get_user_input():
 
 
 def find_closest_city(point: Point):
+
     with open('it.csv', 'r') as cities:
 
         cities.readline()
@@ -20,8 +21,8 @@ def find_closest_city(point: Point):
         closest_distance = ''
         is_first = True
 
-
         for line in cities:
+
             (city,
              lat,
              lng,
