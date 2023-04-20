@@ -18,8 +18,7 @@ def find_closest_city(point: Point):
         cities.readline()
 
         closest_name = ''
-        closest_distance = ''
-        is_first = True
+        closest_distance = None
 
         for line in cities:
 
@@ -36,11 +35,10 @@ def find_closest_city(point: Point):
 
             # print('Evaluating', city, lat, lng)
 
-            if is_first:
+            if closest_distance is None:
                 closest_name = city
                 closest_distance = point\
                     .distance_from(Point(float(lat), float(lng)))
-                is_first = False
 
             else:
                 curr_dist = point.distance_from(Point(float(lat), float(lng)))
