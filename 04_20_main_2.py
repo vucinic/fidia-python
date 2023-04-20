@@ -1,6 +1,6 @@
 class Point:
 
-    def __init__(self, x: float = 0.0, y: float = 0.0, name: str = None):
+    def __init__(self, x: float = 0.0, y: float = 0.0):
         self.x = x
         self.y = y
 
@@ -12,14 +12,16 @@ class Point:
             raise Exception('Operazione mista')
         return Point(
             self.x - other.x,
-            self.y - other.y)
+            self.y - other.y
+        )
 
     def __add__(self, other):
         if not isinstance(other, Point):
             raise Exception('Operazione mista')
         return Point(
             self.x + other.x,
-            self.y + other.y)
+            self.y + other.y
+        )
 
     def __lt__(self, other):
         if not isinstance(other, Point):
