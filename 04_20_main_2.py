@@ -1,6 +1,6 @@
 class Point:
 
-    def __init__(self, x: float, y: float, name: str = None):
+    def __init__(self, x: float = 0.0, y: float = 0.0, name: str = None):
         self.x = x
         self.y = y
 
@@ -8,18 +8,32 @@ class Point:
         return f'({self.x}, {self.y})'
 
     def __sub__(self, other):
-        return Point(self.x - other.x, self.y - other.y)
+        if not isinstance(other, Point):
+            raise Exception('Operazione mista')
+        return Point(
+            self.x - other.x,
+            self.y - other.y)
 
     def __add__(self, other):
-        return Point(self.x + other.x, self.y + other.y)
+        if not isinstance(other, Point):
+            raise Exception('Operazione mista')
+        return Point(
+            self.x + other.x,
+            self.y + other.y)
 
     def __lt__(self, other):
-        return self.distance_from(Point(0, 0)) < other.distance_from(Point(0, 0))
+        if not isinstance(other, Point):
+            raise Exception('Operazione mista')
+        return self.distance_from(Point()) < other.distance_from(Point())
 
     def __gt__(self, other):
-        return self.distance_from(Point(0, 0)) > other.distance_from(Point(0, 0))
+        if not isinstance(other, Point):
+            raise Exception('Operazione mista')
+        return self.distance_from(Point()) > other.distance_from(Point())
 
     def __eq__(self, other):
+        if not isinstance(other, Point):
+            raise Exception('Operazione mista')
         return self.distance_from(Point(0, 0)) == other.distance_from(Point(0, 0))
 
     def distance_from(self, other):
@@ -30,7 +44,11 @@ class Point:
 
 
 p1 = Point(2, 3)
+print(p1)
 p2 = Point(4, 2)
+print(p2)
+
+print()
 
 print(p1 + p2)
 print(p1 - p2)
